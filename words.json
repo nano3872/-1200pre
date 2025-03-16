@@ -1,0 +1,8502 @@
+[
+    {
+        "": "1",
+        "english": "change",
+        "japanese": "変える"
+    },
+    {
+        "": "2",
+        "english": "learn",
+        "japanese": "学ぶ"
+    },
+    {
+        "": "3",
+        "english": "help",
+        "japanese": "手伝う"
+    },
+    {
+        "": "4",
+        "english": "need",
+        "japanese": "必要とする"
+    },
+    {
+        "": "5",
+        "english": "live",
+        "japanese": "住んでいる"
+    },
+    {
+        "": "6",
+        "english": "ask",
+        "japanese": "頼む"
+    },
+    {
+        "": "7",
+        "english": "enjoy",
+        "japanese": "楽しむ"
+    },
+    {
+        "": "8",
+        "english": "wait",
+        "japanese": "待つ"
+    },
+    {
+        "": "9",
+        "english": "cook",
+        "japanese": "調理する"
+    },
+    {
+        "": "10",
+        "english": "talk",
+        "japanese": "話す"
+    },
+    {
+        "": "11",
+        "english": "speak",
+        "japanese": "話す"
+    },
+    {
+        "": "12",
+        "english": "meet",
+        "japanese": "会う"
+    },
+    {
+        "": "13",
+        "english": "mean",
+        "japanese": "意味する"
+    },
+    {
+        "": "14",
+        "english": "buy",
+        "japanese": "買う"
+    },
+    {
+        "": "15",
+        "english": "travel",
+        "japanese": "旅行する"
+    },
+    {
+        "": "16",
+        "english": "build",
+        "japanese": "建てる"
+    },
+    {
+        "": "17",
+        "english": "close",
+        "japanese": "閉じる"
+    },
+    {
+        "": "18",
+        "english": "stay",
+        "japanese": "滞在する"
+    },
+    {
+        "": "19",
+        "english": "move",
+        "japanese": "動かす"
+    },
+    {
+        "": "20",
+        "english": "plan",
+        "japanese": "計画する"
+    },
+    {
+        "": "21",
+        "english": "write",
+        "japanese": "書く"
+    },
+    {
+        "": "22",
+        "english": "listen",
+        "japanese": "聞く"
+    },
+    {
+        "": "23",
+        "english": "happen",
+        "japanese": "起こる"
+    },
+    {
+        "": "24",
+        "english": "lose",
+        "japanese": "失う"
+    },
+    {
+        "": "25",
+        "english": "stand",
+        "japanese": "立つ"
+    },
+    {
+        "": "26",
+        "english": "grow",
+        "japanese": "育つ"
+    },
+    {
+        "": "27",
+        "english": "sound",
+        "japanese": "聞こえる"
+    },
+    {
+        "": "28",
+        "english": "rain",
+        "japanese": "雨が降る"
+    },
+    {
+        "": "29",
+        "english": "worry",
+        "japanese": "心配する"
+    },
+    {
+        "": "30",
+        "english": "teach",
+        "japanese": "教える"
+    },
+    {
+        "": "31",
+        "english": "hope",
+        "japanese": "望む"
+    },
+    {
+        "": "32",
+        "english": "hold",
+        "japanese": "持つ"
+    },
+    {
+        "": "33",
+        "english": "life",
+        "japanese": "一生"
+    },
+    {
+        "": "34",
+        "english": "thing",
+        "japanese": "事"
+    },
+    {
+        "": "35",
+        "english": "country",
+        "japanese": "国"
+    },
+    {
+        "": "36",
+        "english": "example",
+        "japanese": "例"
+    },
+    {
+        "": "37",
+        "english": "place",
+        "japanese": "場所"
+    },
+    {
+        "": "38",
+        "english": "part",
+        "japanese": "部分"
+    },
+    {
+        "": "39",
+        "english": "trip",
+        "japanese": "旅行する"
+    },
+    {
+        "": "40",
+        "english": "problem",
+        "japanese": "問題"
+    },
+    {
+        "": "41",
+        "english": "question",
+        "japanese": "質問"
+    },
+    {
+        "": "42",
+        "english": "color",
+        "japanese": "色"
+    },
+    {
+        "": "43",
+        "english": "point",
+        "japanese": "要点"
+    },
+    {
+        "": "44",
+        "english": "language",
+        "japanese": "言語"
+    },
+    {
+        "": "45",
+        "english": "word",
+        "japanese": "単語"
+    },
+    {
+        "": "46",
+        "english": "health",
+        "japanese": "健康"
+    },
+    {
+        "": "47",
+        "english": "report",
+        "japanese": "報告"
+    },
+    {
+        "": "48",
+        "english": "minute",
+        "japanese": "分"
+    },
+    {
+        "": "49",
+        "english": "reason",
+        "japanese": "理由"
+    },
+    {
+        "": "50",
+        "english": "line",
+        "japanese": "路線"
+    },
+    {
+        "": "51",
+        "english": "month",
+        "japanese": "月"
+    },
+    {
+        "": "52",
+        "english": "week",
+        "japanese": "週"
+    },
+    {
+        "": "53",
+        "english": "date",
+        "japanese": "日にち"
+    },
+    {
+        "": "54",
+        "english": "event",
+        "japanese": "行事"
+    },
+    {
+        "": "55",
+        "english": "future",
+        "japanese": "未来"
+    },
+    {
+        "": "56",
+        "english": "design",
+        "japanese": "デザイン"
+    },
+    {
+        "": "57",
+        "english": "end",
+        "japanese": "終わり"
+    },
+    {
+        "": "58",
+        "english": "computer",
+        "japanese": "コンピュータ"
+    },
+    {
+        "": "59",
+        "english": "plant",
+        "japanese": "植物"
+    },
+    {
+        "": "60",
+        "english": "art",
+        "japanese": "美術"
+    },
+    {
+        "": "61",
+        "english": "chance",
+        "japanese": "機会"
+    },
+    {
+        "": "62",
+        "english": "history",
+        "japanese": "歴史"
+    },
+    {
+        "": "63",
+        "english": "festival",
+        "japanese": "祭り"
+    },
+    {
+        "": "64",
+        "english": "season",
+        "japanese": "季節"
+    },
+    {
+        "": "65",
+        "english": "fun",
+        "japanese": "楽しみ"
+    },
+    {
+        "": "66",
+        "english": "host",
+        "japanese": "主人"
+    },
+    {
+        "": "67",
+        "english": "message",
+        "japanese": "伝言"
+    },
+    {
+        "": "68",
+        "english": "step",
+        "japanese": "段階"
+    },
+    {
+        "": "69",
+        "english": "popular",
+        "japanese": "人気のある"
+    },
+    {
+        "": "70",
+        "english": "most",
+        "japanese": "大部分の"
+    },
+    {
+        "": "71",
+        "english": "different",
+        "japanese": "違う"
+    },
+    {
+        "": "72",
+        "english": "such",
+        "japanese": "そのような"
+    },
+    {
+        "": "73",
+        "english": "last",
+        "japanese": "この前の"
+    },
+    {
+        "": "74",
+        "english": "same",
+        "japanese": "同じ"
+    },
+    {
+        "": "75",
+        "english": "great",
+        "japanese": "すばらしい"
+    },
+    {
+        "": "76",
+        "english": "open",
+        "japanese": "開店している"
+    },
+    {
+        "": "77",
+        "english": "own",
+        "japanese": "自分自身の"
+    },
+    {
+        "": "78",
+        "english": "kind",
+        "japanese": "親切な"
+    },
+    {
+        "": "79",
+        "english": "difficult",
+        "japanese": "難しい"
+    },
+    {
+        "": "80",
+        "english": "enough",
+        "japanese": "十分な"
+    },
+    {
+        "": "81",
+        "english": "special",
+        "japanese": "特別な"
+    },
+    {
+        "": "82",
+        "english": "famous",
+        "japanese": "有名な"
+    },
+    {
+        "": "83",
+        "english": "bad",
+        "japanese": "悪い"
+    },
+    {
+        "": "84",
+        "english": "short",
+        "japanese": "短い"
+    },
+    {
+        "": "85",
+        "english": "useful",
+        "japanese": "役に立つ"
+    },
+    {
+        "": "86",
+        "english": "afraid",
+        "japanese": "恐れて"
+    },
+    {
+        "": "87",
+        "english": "favorite",
+        "japanese": "お気に入りの"
+    },
+    {
+        "": "88",
+        "english": "expensive",
+        "japanese": "高価な"
+    },
+    {
+        "": "89",
+        "english": "carry",
+        "japanese": "運ぶ"
+    },
+    {
+        "": "90",
+        "english": "break",
+        "japanese": "壊れる"
+    },
+    {
+        "": "91",
+        "english": "arrive",
+        "japanese": "到着する"
+    },
+    {
+        "": "92",
+        "english": "fall",
+        "japanese": "落ちる"
+    },
+    {
+        "": "93",
+        "english": "miss",
+        "japanese": "～がいなくて寂しく思う"
+    },
+    {
+        "": "94",
+        "english": "cover",
+        "japanese": "覆う"
+    },
+    {
+        "": "95",
+        "english": "catch",
+        "japanese": "捕まえる"
+    },
+    {
+        "": "96",
+        "english": "save",
+        "japanese": "救う"
+    },
+    {
+        "": "97",
+        "english": "check",
+        "japanese": "点検する"
+    },
+    {
+        "": "98",
+        "english": "introduce",
+        "japanese": "紹介する"
+    },
+    {
+        "": "99",
+        "english": "join",
+        "japanese": "加わる"
+    },
+    {
+        "": "100",
+        "english": "clean",
+        "japanese": "きれいにする"
+    },
+    {
+        "": "101",
+        "english": "answer",
+        "japanese": "答える"
+    },
+    {
+        "": "102",
+        "english": "throw",
+        "japanese": "投げる"
+    },
+    {
+        "": "103",
+        "english": "invite",
+        "japanese": "招待する"
+    },
+    {
+        "": "104",
+        "english": "pick",
+        "japanese": "摘み取る"
+    },
+    {
+        "": "105",
+        "english": "die",
+        "japanese": "死ぬ"
+    },
+    {
+        "": "106",
+        "english": "return",
+        "japanese": "戻る"
+    },
+    {
+        "": "107",
+        "english": "fly",
+        "japanese": "飛ぶ"
+    },
+    {
+        "": "108",
+        "english": "cut",
+        "japanese": "切る"
+    },
+    {
+        "": "109",
+        "english": "hit",
+        "japanese": "襲う"
+    },
+    {
+        "": "110",
+        "english": "excuse",
+        "japanese": "許す"
+    },
+    {
+        "": "111",
+        "english": "wash",
+        "japanese": "洗う"
+    },
+    {
+        "": "112",
+        "english": "cry",
+        "japanese": "叫ぶ"
+    },
+    {
+        "": "113",
+        "english": "borrow",
+        "japanese": "借りる"
+    },
+    {
+        "": "114",
+        "english": "kill",
+        "japanese": "殺す"
+    },
+    {
+        "": "115",
+        "english": "push",
+        "japanese": "押す"
+    },
+    {
+        "": "116",
+        "english": "climb",
+        "japanese": "登る"
+    },
+    {
+        "": "117",
+        "english": "laugh",
+        "japanese": "笑う"
+    },
+    {
+        "": "118",
+        "english": "smile",
+        "japanese": "ほほえむ"
+    },
+    {
+        "": "119",
+        "english": "hurry",
+        "japanese": "急ぐ"
+    },
+    {
+        "": "120",
+        "english": "cheer",
+        "japanese": "元気づける"
+    },
+    {
+        "": "121",
+        "english": "volunteer",
+        "japanese": "ボランティア"
+    },
+    {
+        "": "122",
+        "english": "side",
+        "japanese": "側"
+    },
+    {
+        "": "123",
+        "english": "front",
+        "japanese": "前"
+    },
+    {
+        "": "124",
+        "english": "concert",
+        "japanese": "コンサート"
+    },
+    {
+        "": "125",
+        "english": "fire",
+        "japanese": "家事"
+    },
+    {
+        "": "126",
+        "english": "village",
+        "japanese": "村"
+    },
+    {
+        "": "127",
+        "english": "lesson",
+        "japanese": "レッスン"
+    },
+    {
+        "": "128",
+        "english": "light",
+        "japanese": "明かり"
+    },
+    {
+        "": "129",
+        "english": "Internet",
+        "japanese": "インターネット"
+    },
+    {
+        "": "130",
+        "english": "weather",
+        "japanese": "天気"
+    },
+    {
+        "": "131",
+        "english": "voice",
+        "japanese": "声"
+    },
+    {
+        "": "132",
+        "english": "piece",
+        "japanese": "１つ"
+    },
+    {
+        "": "133",
+        "english": "goal",
+        "japanese": "目標"
+    },
+    {
+        "": "134",
+        "english": "speech",
+        "japanese": "スピーチ"
+    },
+    {
+        "": "135",
+        "english": "fan",
+        "japanese": "ファン"
+    },
+    {
+        "": "136",
+        "english": "dream",
+        "japanese": "夢"
+    },
+    {
+        "": "137",
+        "english": "mistake",
+        "japanese": "間違い"
+    },
+    {
+        "": "138",
+        "english": "meter",
+        "japanese": "メートル"
+    },
+    {
+        "": "139",
+        "english": "land",
+        "japanese": "土地"
+    },
+    {
+        "": "140",
+        "english": "hundred",
+        "japanese": "百"
+    },
+    {
+        "": "141",
+        "english": "thousand",
+        "japanese": "千"
+    },
+    {
+        "": "142",
+        "english": "million",
+        "japanese": "百万"
+    },
+    {
+        "": "143",
+        "english": "medicine",
+        "japanese": "薬"
+    },
+    {
+        "": "144",
+        "english": "uniform",
+        "japanese": "制限"
+    },
+    {
+        "": "145",
+        "english": "heat",
+        "japanese": "暑さ"
+    },
+    {
+        "": "146",
+        "english": "evening",
+        "japanese": "夕方"
+    },
+    {
+        "": "147",
+        "english": "noon",
+        "japanese": "正午"
+    },
+    {
+        "": "148",
+        "english": "holiday",
+        "japanese": "休日"
+    },
+    {
+        "": "149",
+        "english": "course",
+        "japanese": "講座"
+    },
+    {
+        "": "150",
+        "english": "rule",
+        "japanese": "ルール"
+    },
+    {
+        "": "151",
+        "english": "forest",
+        "japanese": "森林"
+    },
+    {
+        "": "152",
+        "english": "farm",
+        "japanese": "農場"
+    },
+    {
+        "": "153",
+        "english": "treasure",
+        "japanese": "大切なもの"
+    },
+    {
+        "": "154",
+        "english": "hole",
+        "japanese": "穴"
+    },
+    {
+        "": "155",
+        "english": "cloud",
+        "japanese": "雲"
+    },
+    {
+        "": "156",
+        "english": "phone",
+        "japanese": "電話"
+    },
+    {
+        "": "157",
+        "english": "sorry",
+        "japanese": "すまなく思って"
+    },
+    {
+        "": "158",
+        "english": "careful",
+        "japanese": "注意深い"
+    },
+    {
+        "": "159",
+        "english": "wonderful",
+        "japanese": "すばらしい"
+    },
+    {
+        "": "160",
+        "english": "heavy",
+        "japanese": "重い"
+    },
+    {
+        "": "161",
+        "english": "sick",
+        "japanese": "病気の"
+    },
+    {
+        "": "162",
+        "english": "dear",
+        "japanese": "親愛なる"
+    },
+    {
+        "": "163",
+        "english": "glad",
+        "japanese": "うれしい"
+    },
+    {
+        "": "164",
+        "english": "dark",
+        "japanese": "暗い"
+    },
+    {
+        "": "165",
+        "english": "sad",
+        "japanese": "悲しい"
+    },
+    {
+        "": "166",
+        "english": "cute",
+        "japanese": "かわいい"
+    },
+    {
+        "": "167",
+        "english": "free",
+        "japanese": "暇な"
+    },
+    {
+        "": "168",
+        "english": "foreign",
+        "japanese": "外国の"
+    },
+    {
+        "": "169",
+        "english": "low",
+        "japanese": "低い"
+    },
+    {
+        "": "170",
+        "english": "safe",
+        "japanese": "安全な"
+    },
+    {
+        "": "171",
+        "english": "angry",
+        "japanese": "怒った"
+    },
+    {
+        "": "172",
+        "english": "lucky",
+        "japanese": "幸運な"
+    },
+    {
+        "": "173",
+        "english": "bright",
+        "japanese": "輝いて"
+    },
+    {
+        "": "174",
+        "english": "soft",
+        "japanese": "柔らかい"
+    },
+    {
+        "": "175",
+        "english": "loud",
+        "japanese": "大きい"
+    },
+    {
+        "": "176",
+        "english": "even",
+        "japanese": "～でさえ"
+    },
+    {
+        "": "177",
+        "english": "back",
+        "japanese": "戻って"
+    },
+    {
+        "": "178",
+        "english": "still",
+        "japanese": "まだ"
+    },
+    {
+        "": "179",
+        "english": "early",
+        "japanese": "早く"
+    },
+    {
+        "": "180",
+        "english": "soon",
+        "japanese": "すぐに"
+    },
+    {
+        "": "181",
+        "english": "away",
+        "japanese": "離れて"
+    },
+    {
+        "": "182",
+        "english": "almost",
+        "japanese": "ほとんど"
+    },
+    {
+        "": "183",
+        "english": "together",
+        "japanese": "一緒に"
+    },
+    {
+        "": "184",
+        "english": "maybe",
+        "japanese": "もしかすると"
+    },
+    {
+        "": "185",
+        "english": "once",
+        "japanese": "１度"
+    },
+    {
+        "": "186",
+        "english": "else",
+        "japanese": "ほかに"
+    },
+    {
+        "": "187",
+        "english": "ago",
+        "japanese": "～前に"
+    },
+    {
+        "": "188",
+        "english": "straight",
+        "japanese": "まっすぐに"
+    },
+    {
+        "": "189",
+        "english": "slowly",
+        "japanese": "ゆっくりと"
+    },
+    {
+        "": "190",
+        "english": "suddenly",
+        "japanese": "突然"
+    },
+    {
+        "": "191",
+        "english": "until",
+        "japanese": "～するまで"
+    },
+    {
+        "": "192",
+        "english": "since",
+        "japanese": "～したときから"
+    },
+    {
+        "": "193",
+        "english": "around",
+        "japanese": "～のあちこちを"
+    },
+    {
+        "": "194",
+        "english": "over",
+        "japanese": "～を超えて"
+    },
+    {
+        "": "195",
+        "english": "without",
+        "japanese": "～なしに"
+    },
+    {
+        "": "196",
+        "english": "through",
+        "japanese": "～の間じゅう"
+    },
+    {
+        "": "197",
+        "english": "between",
+        "japanese": "～の間に"
+    },
+    {
+        "": "198",
+        "english": "during",
+        "japanese": "～の間に"
+    },
+    {
+        "": "199",
+        "english": "behind",
+        "japanese": "～の後ろに"
+    },
+    {
+        "": "200",
+        "english": "along",
+        "japanese": "～に沿って"
+    },
+    {
+        "": "201",
+        "english": "come from",
+        "japanese": "～から来ている"
+    },
+    {
+        "": "202",
+        "english": "come true",
+        "japanese": "実現する"
+    },
+    {
+        "": "203",
+        "english": "cut off",
+        "japanese": "～を切り取る"
+    },
+    {
+        "": "204",
+        "english": "do one's best",
+        "japanese": "全力を尽くす"
+    },
+    {
+        "": "205",
+        "english": "get off",
+        "japanese": "降りる"
+    },
+    {
+        "": "206",
+        "english": "get on",
+        "japanese": "乗る"
+    },
+    {
+        "": "207",
+        "english": "get to",
+        "japanese": "到着する"
+    },
+    {
+        "": "208",
+        "english": "go through",
+        "japanese": "経験する"
+    },
+    {
+        "": "209",
+        "english": "grow up",
+        "japanese": "成長する"
+    },
+    {
+        "": "210",
+        "english": "hear of",
+        "japanese": "聞き知る"
+    },
+    {
+        "": "211",
+        "english": "help oneself (to)",
+        "japanese": "自由にとって食べる"
+    },
+    {
+        "": "212",
+        "english": "look for",
+        "japanese": "探す"
+    },
+    {
+        "": "213",
+        "english": "look forward to",
+        "japanese": "楽しみに待つ"
+    },
+    {
+        "": "214",
+        "english": "look like",
+        "japanese": "似ている"
+    },
+    {
+        "": "215",
+        "english": "pick up",
+        "japanese": "拾い上げる"
+    },
+    {
+        "": "216",
+        "english": "speak to(with)",
+        "japanese": "話す"
+    },
+    {
+        "": "217",
+        "english": "take care of",
+        "japanese": "世話をする"
+    },
+    {
+        "": "218",
+        "english": "take off",
+        "japanese": "脱ぐ"
+    },
+    {
+        "": "219",
+        "english": "take part in",
+        "japanese": "参加する"
+    },
+    {
+        "": "220",
+        "english": "think of",
+        "japanese": "思いつく"
+    },
+    {
+        "": "221",
+        "english": "after school",
+        "japanese": "放課後に"
+    },
+    {
+        "": "222",
+        "english": "all over",
+        "japanese": "至る所に"
+    },
+    {
+        "": "223",
+        "english": "all the time",
+        "japanese": "いつも"
+    },
+    {
+        "": "224",
+        "english": "at first",
+        "japanese": "最初は"
+    },
+    {
+        "": "225",
+        "english": "at home",
+        "japanese": "在宅して"
+    },
+    {
+        "": "226",
+        "english": "at last",
+        "japanese": "ついに"
+    },
+    {
+        "": "227",
+        "english": "at that time",
+        "japanese": "その時に"
+    },
+    {
+        "": "228",
+        "english": "at the same time",
+        "japanese": "同時に"
+    },
+    {
+        "": "229",
+        "english": "for a long time",
+        "japanese": "長い間"
+    },
+    {
+        "": "230",
+        "english": "for the first time",
+        "japanese": "初めて"
+    },
+    {
+        "": "231",
+        "english": "in the end",
+        "japanese": "結局"
+    },
+    {
+        "": "232",
+        "english": "in the future",
+        "japanese": "将来"
+    },
+    {
+        "": "233",
+        "english": "in this way",
+        "japanese": "このようにして"
+    },
+    {
+        "": "234",
+        "english": "more than",
+        "japanese": "～より多い"
+    },
+    {
+        "": "235",
+        "english": "of course",
+        "japanese": "もちろん"
+    },
+    {
+        "": "236",
+        "english": "on one's (the) way (to)",
+        "japanese": "途中で"
+    },
+    {
+        "": "237",
+        "english": "over there",
+        "japanese": "あそこに"
+    },
+    {
+        "": "238",
+        "english": "these days",
+        "japanese": "近ごろ"
+    },
+    {
+        "": "239",
+        "english": "a kind (sort) of",
+        "japanese": "一種の"
+    },
+    {
+        "": "240",
+        "english": "a lot of / lots of",
+        "japanese": "たくさんの"
+    },
+    {
+        "": "241",
+        "english": "A such as B",
+        "japanese": "BのようなA"
+    },
+    {
+        "": "242",
+        "english": "and so on (forth)",
+        "japanese": "～など"
+    },
+    {
+        "": "243",
+        "english": "here is ～",
+        "japanese": "これが～です"
+    },
+    {
+        "": "244",
+        "english": "How about～?",
+        "japanese": "～はいかがですか"
+    },
+    {
+        "": "245",
+        "english": "no longer",
+        "japanese": "もはや～ない"
+    },
+    {
+        "": "246",
+        "english": "not only A but (also) B",
+        "japanese": "AだけでなくBも"
+    },
+    {
+        "": "247",
+        "english": "so ～ that …",
+        "japanese": "とても～なので…"
+    },
+    {
+        "": "248",
+        "english": "too ～ to",
+        "japanese": "あまりに～なので…できない"
+    },
+    {
+        "": "249",
+        "english": "used to 原形",
+        "japanese": "以前はよく…した"
+    },
+    {
+        "": "250",
+        "english": "would like to 原形",
+        "japanese": "…したいと思う"
+    },
+    {
+        "": "251",
+        "english": "create",
+        "japanese": "創造する"
+    },
+    {
+        "": "252",
+        "english": "base",
+        "japanese": "基礎を置く"
+    },
+    {
+        "": "253",
+        "english": "repair",
+        "japanese": "修理する"
+    },
+    {
+        "": "254",
+        "english": "fail",
+        "japanese": "失敗する"
+    },
+    {
+        "": "255",
+        "english": "accept",
+        "japanese": "受け入れる"
+    },
+    {
+        "": "256",
+        "english": "belong",
+        "japanese": "属する"
+    },
+    {
+        "": "257",
+        "english": "exchange",
+        "japanese": "交換する"
+    },
+    {
+        "": "258",
+        "english": "complete",
+        "japanese": "完成させる"
+    },
+    {
+        "": "259",
+        "english": "treat",
+        "japanese": "扱う"
+    },
+    {
+        "": "260",
+        "english": "cross",
+        "japanese": "横切る"
+    },
+    {
+        "": "261",
+        "english": "hide",
+        "japanese": "隠す"
+    },
+    {
+        "": "262",
+        "english": "shake",
+        "japanese": "振る"
+    },
+    {
+        "": "263",
+        "english": "challenge",
+        "japanese": "挑戦する"
+    },
+    {
+        "": "264",
+        "english": "connect",
+        "japanese": "つなぐ"
+    },
+    {
+        "": "265",
+        "english": "reply",
+        "japanese": "返事をする"
+    },
+    {
+        "": "266",
+        "english": "beat",
+        "japanese": "打ち負かす"
+    },
+    {
+        "": "267",
+        "english": "share",
+        "japanese": "分かち合う"
+    },
+    {
+        "": "268",
+        "english": "observe",
+        "japanese": "観察する"
+    },
+    {
+        "": "269",
+        "english": "mark",
+        "japanese": "しるしをつける"
+    },
+    {
+        "": "270",
+        "english": "burn",
+        "japanese": "焦がす"
+    },
+    {
+        "": "271",
+        "english": "locate",
+        "japanese": "位置する"
+    },
+    {
+        "": "272",
+        "english": "fix",
+        "japanese": "修理する"
+    },
+    {
+        "": "273",
+        "english": "suit",
+        "japanese": "最適である"
+    },
+    {
+        "": "274",
+        "english": "destroy",
+        "japanese": "破壊する"
+    },
+    {
+        "": "275",
+        "english": "control",
+        "japanese": "抑制する"
+    },
+    {
+        "": "276",
+        "english": "respond",
+        "japanese": "返答する"
+    },
+    {
+        "": "277",
+        "english": "depend",
+        "japanese": "当てにする"
+    },
+    {
+        "": "278",
+        "english": "forgive",
+        "japanese": "許す"
+    },
+    {
+        "": "279",
+        "english": "attack",
+        "japanese": "襲う"
+    },
+    {
+        "": "280",
+        "english": "sink",
+        "japanese": "沈む"
+    },
+    {
+        "": "281",
+        "english": "appreciate",
+        "japanese": "感謝する"
+    },
+    {
+        "": "282",
+        "english": "feed",
+        "japanese": "食べ物を与える"
+    },
+    {
+        "": "283",
+        "english": "success",
+        "japanese": "成功"
+    },
+    {
+        "": "284",
+        "english": "mystery",
+        "japanese": "謎"
+    },
+    {
+        "": "285",
+        "english": "ceremony",
+        "japanese": "式典"
+    },
+    {
+        "": "286",
+        "english": "schedule",
+        "japanese": "予定"
+    },
+    {
+        "": "287",
+        "english": "damage",
+        "japanese": "損害"
+    },
+    {
+        "": "288",
+        "english": "model",
+        "japanese": "型"
+    },
+    {
+        "": "289",
+        "english": "search",
+        "japanese": "捜索"
+    },
+    {
+        "": "290",
+        "english": "project",
+        "japanese": "計画する"
+    },
+    {
+        "": "291",
+        "english": "form",
+        "japanese": "携帯"
+    },
+    {
+        "": "292",
+        "english": "scene",
+        "japanese": "場面"
+    },
+    {
+        "": "293",
+        "english": "accident",
+        "japanese": "自己"
+    },
+    {
+        "": "294",
+        "english": "contact",
+        "japanese": "連絡"
+    },
+    {
+        "": "295",
+        "english": "image",
+        "japanese": "イメージ"
+    },
+    {
+        "": "296",
+        "english": "trust",
+        "japanese": "信頼"
+    },
+    {
+        "": "297",
+        "english": "quality",
+        "japanese": "質問"
+    },
+    {
+        "": "298",
+        "english": "action",
+        "japanese": "行動"
+    },
+    {
+        "": "299",
+        "english": "lack",
+        "japanese": "不足"
+    },
+    {
+        "": "300",
+        "english": "spot",
+        "japanese": "場所"
+    },
+    {
+        "": "301",
+        "english": "truth",
+        "japanese": "真実"
+    },
+    {
+        "": "302",
+        "english": "effort",
+        "japanese": "努力"
+    },
+    {
+        "": "303",
+        "english": "type",
+        "japanese": "型"
+    },
+    {
+        "": "304",
+        "english": "site",
+        "japanese": "敷地"
+    },
+    {
+        "": "305",
+        "english": "tool",
+        "japanese": "手段"
+    },
+    {
+        "": "306",
+        "english": "couple",
+        "japanese": "２つ"
+    },
+    {
+        "": "307",
+        "english": "hero",
+        "japanese": "ヒーロー"
+    },
+    {
+        "": "308",
+        "english": "courage",
+        "japanese": "勇気"
+    },
+    {
+        "": "309",
+        "english": "board",
+        "japanese": "板"
+    },
+    {
+        "": "310",
+        "english": "purpose",
+        "japanese": "目的"
+    },
+    {
+        "": "311",
+        "english": "waste",
+        "japanese": "無駄"
+    },
+    {
+        "": "312",
+        "english": "shape",
+        "japanese": "形"
+    },
+    {
+        "": "313",
+        "english": "technique",
+        "japanese": "技能"
+    },
+    {
+        "": "314",
+        "english": "middle",
+        "japanese": "真ん中"
+    },
+    {
+        "": "315",
+        "english": "spirit",
+        "japanese": "精神"
+    },
+    {
+        "": "316",
+        "english": "partner",
+        "japanese": "パートナー"
+    },
+    {
+        "": "317",
+        "english": "population",
+        "japanese": "人口"
+    },
+    {
+        "": "318",
+        "english": "fever",
+        "japanese": "熱"
+    },
+    {
+        "": "319",
+        "english": "method",
+        "japanese": "方法"
+    },
+    {
+        "": "320",
+        "english": "structure",
+        "japanese": "構造"
+    },
+    {
+        "": "321",
+        "english": "background",
+        "japanese": "経歴"
+    },
+    {
+        "": "322",
+        "english": "combination",
+        "japanese": "組み合わせ"
+    },
+    {
+        "": "323",
+        "english": "official",
+        "japanese": "公式の"
+    },
+    {
+        "": "324",
+        "english": "flat",
+        "japanese": "平らな"
+    },
+    {
+        "": "325",
+        "english": "serious",
+        "japanese": "深刻な"
+    },
+    {
+        "": "326",
+        "english": "ordinary",
+        "japanese": "普通の"
+    },
+    {
+        "": "327",
+        "english": "private",
+        "japanese": "私的な"
+    },
+    {
+        "": "328",
+        "english": "major",
+        "japanese": "重大な"
+    },
+    {
+        "": "329",
+        "english": "classical",
+        "japanese": "クラシックの"
+    },
+    {
+        "": "330",
+        "english": "honest",
+        "japanese": "正直な"
+    },
+    {
+        "": "331",
+        "english": "excellent",
+        "japanese": "とても優れた"
+    },
+    {
+        "": "332",
+        "english": "whole",
+        "japanese": "全体の"
+    },
+    {
+        "": "333",
+        "english": "central",
+        "japanese": "中心の"
+    },
+    {
+        "": "334",
+        "english": "ancient",
+        "japanese": "古代の"
+    },
+    {
+        "": "335",
+        "english": "fantastic",
+        "japanese": "とてもすばらしい"
+    },
+    {
+        "": "336",
+        "english": "regular",
+        "japanese": "定期的な"
+    },
+    {
+        "": "337",
+        "english": "basic",
+        "japanese": "基本的な"
+    },
+    {
+        "": "338",
+        "english": "huge",
+        "japanese": "巨大な"
+    },
+    {
+        "": "339",
+        "english": "empty",
+        "japanese": "空の"
+    },
+    {
+        "": "340",
+        "english": "smart",
+        "japanese": "頭のよい"
+    },
+    {
+        "": "341",
+        "english": "general",
+        "japanese": "大まかな"
+    },
+    {
+        "": "342",
+        "english": "single",
+        "japanese": "たった１つの"
+    },
+    {
+        "": "343",
+        "english": "responsible",
+        "japanese": "責任のある"
+    },
+    {
+        "": "344",
+        "english": "fresh",
+        "japanese": "新鮮な"
+    },
+    {
+        "": "345",
+        "english": "familiar",
+        "japanese": "熟知している"
+    },
+    {
+        "": "346",
+        "english": "native",
+        "japanese": "出生地の"
+    },
+    {
+        "": "347",
+        "english": "instant",
+        "japanese": "即席の"
+    },
+    {
+        "": "348",
+        "english": "lovely",
+        "japanese": "すてきな"
+    },
+    {
+        "": "349",
+        "english": "clear",
+        "japanese": "明白な"
+    },
+    {
+        "": "350",
+        "english": "convenient",
+        "japanese": "都合のよい"
+    },
+    {
+        "": "351",
+        "english": "crazy",
+        "japanese": "夢中で"
+    },
+    {
+        "": "352",
+        "english": "funny",
+        "japanese": "おかしい"
+    },
+    {
+        "": "353",
+        "english": "secret",
+        "japanese": "秘密の"
+    },
+    {
+        "": "354",
+        "english": "remote",
+        "japanese": "離れた"
+    },
+    {
+        "": "355",
+        "english": "wake",
+        "japanese": "目を覚ます"
+    },
+    {
+        "": "356",
+        "english": "release",
+        "japanese": "解放する"
+    },
+    {
+        "": "357",
+        "english": "establish",
+        "japanese": "設立する"
+    },
+    {
+        "": "358",
+        "english": "examine",
+        "japanese": "調べる"
+    },
+    {
+        "": "359",
+        "english": "celebrate",
+        "japanese": "祝う"
+    },
+    {
+        "": "360",
+        "english": "float",
+        "japanese": "漂う"
+    },
+    {
+        "": "361",
+        "english": "recommend",
+        "japanese": "推薦する"
+    },
+    {
+        "": "362",
+        "english": "supply",
+        "japanese": "供給する"
+    },
+    {
+        "": "363",
+        "english": "disappear",
+        "japanese": "見えなくなる"
+    },
+    {
+        "": "364",
+        "english": "apologize",
+        "japanese": "誤る"
+    },
+    {
+        "": "365",
+        "english": "paint",
+        "japanese": "塗る"
+    },
+    {
+        "": "366",
+        "english": "pull",
+        "japanese": "引く"
+    },
+    {
+        "": "367",
+        "english": "print",
+        "japanese": "印刷する"
+    },
+    {
+        "": "368",
+        "english": "lift",
+        "japanese": "持ち上げる"
+    },
+    {
+        "": "369",
+        "english": "separate",
+        "japanese": "分ける"
+    },
+    {
+        "": "370",
+        "english": "melt",
+        "japanese": "溶かす"
+    },
+    {
+        "": "371",
+        "english": "strike",
+        "japanese": "強く打つ"
+    },
+    {
+        "": "372",
+        "english": "blow",
+        "japanese": "吹き飛ばす"
+    },
+    {
+        "": "373",
+        "english": "let",
+        "japanese": "…させてやる"
+    },
+    {
+        "": "374",
+        "english": "roll",
+        "japanese": "転がる"
+    },
+    {
+        "": "375",
+        "english": "recover",
+        "japanese": "回復する"
+    },
+    {
+        "": "376",
+        "english": "surround",
+        "japanese": "囲む"
+    },
+    {
+        "": "377",
+        "english": "doubt",
+        "japanese": "疑う"
+    },
+    {
+        "": "378",
+        "english": "display",
+        "japanese": "展示する"
+    },
+    {
+        "": "379",
+        "english": "announce",
+        "japanese": "発表する"
+    },
+    {
+        "": "380",
+        "english": "support",
+        "japanese": "支持する"
+    },
+    {
+        "": "381",
+        "english": "act",
+        "japanese": "行動する"
+    },
+    {
+        "": "382",
+        "english": "repeat",
+        "japanese": "繰り返して言う"
+    },
+    {
+        "": "383",
+        "english": "count",
+        "japanese": "数える"
+    },
+    {
+        "": "384",
+        "english": "compare",
+        "japanese": "比べる"
+    },
+    {
+        "": "385",
+        "english": "shine",
+        "japanese": "輝く"
+    },
+    {
+        "": "386",
+        "english": "replace",
+        "japanese": "取って代わる"
+    },
+    {
+        "": "387",
+        "english": "reality",
+        "japanese": "現実"
+    },
+    {
+        "": "388",
+        "english": "strength",
+        "japanese": "力"
+    },
+    {
+        "": "389",
+        "english": "era",
+        "japanese": "時代"
+    },
+    {
+        "": "390",
+        "english": "area",
+        "japanese": "地域"
+    },
+    {
+        "": "391",
+        "english": "respect",
+        "japanese": "尊敬"
+    },
+    {
+        "": "392",
+        "english": "pressure",
+        "japanese": "重圧"
+    },
+    {
+        "": "393",
+        "english": "pleasure",
+        "japanese": "喜び"
+    },
+    {
+        "": "394",
+        "english": "favorite",
+        "japanese": "親切な行為"
+    },
+    {
+        "": "395",
+        "english": "statue",
+        "japanese": "像"
+    },
+    {
+        "": "396",
+        "english": "limit",
+        "japanese": "限度"
+    },
+    {
+        "": "397",
+        "english": "bottom",
+        "japanese": "下部"
+    },
+    {
+        "": "398",
+        "english": "position",
+        "japanese": "立場"
+    },
+    {
+        "": "399",
+        "english": "memory",
+        "japanese": "記憶"
+    },
+    {
+        "": "400",
+        "english": "level",
+        "japanese": "水準"
+    },
+    {
+        "": "401",
+        "english": "figure",
+        "japanese": "数える"
+    },
+    {
+        "": "402",
+        "english": "direction",
+        "japanese": "方向"
+    },
+    {
+        "": "403",
+        "english": "bit",
+        "japanese": "少し"
+    },
+    {
+        "": "404",
+        "english": "contrast",
+        "japanese": "対比"
+    },
+    {
+        "": "405",
+        "english": "religion",
+        "japanese": "宗教"
+    },
+    {
+        "": "406",
+        "english": "harmony",
+        "japanese": "調和"
+    },
+    {
+        "": "407",
+        "english": "pattern",
+        "japanese": "模様"
+    },
+    {
+        "": "408",
+        "english": "stage",
+        "japanese": "段階"
+    },
+    {
+        "": "409",
+        "english": "degree",
+        "japanese": "程度"
+    },
+    {
+        "": "410",
+        "english": "emergency",
+        "japanese": "緊急"
+    },
+    {
+        "": "411",
+        "english": "origin",
+        "japanese": "起源"
+    },
+    {
+        "": "412",
+        "english": "battle",
+        "japanese": "戦闘"
+    },
+    {
+        "": "413",
+        "english": "enemy",
+        "japanese": "敵"
+    },
+    {
+        "": "414",
+        "english": "note",
+        "japanese": "メモ"
+    },
+    {
+        "": "415",
+        "english": "countryside",
+        "japanese": "田舎"
+    },
+    {
+        "": "416",
+        "english": "contest",
+        "japanese": "競技"
+    },
+    {
+        "": "417",
+        "english": "sort",
+        "japanese": "種類"
+    },
+    {
+        "": "418",
+        "english": "depth",
+        "japanese": "不可さ"
+    },
+    {
+        "": "419",
+        "english": "top",
+        "japanese": "最高部"
+    },
+    {
+        "": "420",
+        "english": "theme",
+        "japanese": "テーマ"
+    },
+    {
+        "": "421",
+        "english": "sentence",
+        "japanese": "文"
+    },
+    {
+        "": "422",
+        "english": "cycle",
+        "japanese": "周期"
+    },
+    {
+        "": "423",
+        "english": "concept",
+        "japanese": "概念"
+    },
+    {
+        "": "424",
+        "english": "rhythm",
+        "japanese": "リズム"
+    },
+    {
+        "": "425",
+        "english": "tradition",
+        "japanese": "伝統"
+    },
+    {
+        "": "426",
+        "english": "theory",
+        "japanese": "理論"
+    },
+    {
+        "": "427",
+        "english": "correct",
+        "japanese": "正しい"
+    },
+    {
+        "": "428",
+        "english": "blank",
+        "japanese": "白紙の"
+    },
+    {
+        "": "429",
+        "english": "quiet",
+        "japanese": "静かな"
+    },
+    {
+        "": "430",
+        "english": "smooth",
+        "japanese": "滑らかな"
+    },
+    {
+        "": "431",
+        "english": "wet",
+        "japanese": "濡れた"
+    },
+    {
+        "": "432",
+        "english": "chief",
+        "japanese": "最高の"
+    },
+    {
+        "": "433",
+        "english": "raw",
+        "japanese": "生の"
+    },
+    {
+        "": "434",
+        "english": "personal",
+        "japanese": "個人の"
+    },
+    {
+        "": "435",
+        "english": "double",
+        "japanese": "２倍の"
+    },
+    {
+        "": "436",
+        "english": "dirty",
+        "japanese": "汚れた"
+    },
+    {
+        "": "437",
+        "english": "normal",
+        "japanese": "普通の"
+    },
+    {
+        "": "438",
+        "english": "full",
+        "japanese": "いっぱいの"
+    },
+    {
+        "": "439",
+        "english": "simple",
+        "japanese": "簡単な"
+    },
+    {
+        "": "440",
+        "english": "equal",
+        "japanese": "等しい"
+    },
+    {
+        "": "441",
+        "english": "quick",
+        "japanese": "短時間の"
+    },
+    {
+        "": "442",
+        "english": "rapid",
+        "japanese": "急速な"
+    },
+    {
+        "": "443",
+        "english": "ideal",
+        "japanese": "理想的な"
+    },
+    {
+        "": "444",
+        "english": "rough",
+        "japanese": "大まかな"
+    },
+    {
+        "": "445",
+        "english": "silent",
+        "japanese": "無言の"
+    },
+    {
+        "": "446",
+        "english": "violent",
+        "japanese": "暴力的な"
+    },
+    {
+        "": "447",
+        "english": "rich",
+        "japanese": "豊富な"
+    },
+    {
+        "": "448",
+        "english": "perfect",
+        "japanese": "完全な"
+    },
+    {
+        "": "449",
+        "english": "weak",
+        "japanese": "弱い"
+    },
+    {
+        "": "450",
+        "english": "upper",
+        "japanese": "上の"
+    },
+    {
+        "": "451",
+        "english": "inner",
+        "japanese": "内部の"
+    },
+    {
+        "": "452",
+        "english": "awful",
+        "japanese": "ひどい"
+    },
+    {
+        "": "453",
+        "english": "FALSE",
+        "japanese": "間違った"
+    },
+    {
+        "": "454",
+        "english": "vivid",
+        "japanese": "鮮やかな"
+    },
+    {
+        "": "455",
+        "english": "pure",
+        "japanese": "純粋な"
+    },
+    {
+        "": "456",
+        "english": "minor",
+        "japanese": "重要ではない"
+    },
+    {
+        "": "457",
+        "english": "mild",
+        "japanese": "穏やかな"
+    },
+    {
+        "": "458",
+        "english": "admire",
+        "japanese": "賞賛する"
+    },
+    {
+        "": "459",
+        "english": "drop",
+        "japanese": "落とす"
+    },
+    {
+        "": "460",
+        "english": "reflect",
+        "japanese": "映し出す"
+    },
+    {
+        "": "461",
+        "english": "dig",
+        "japanese": "掘る"
+    },
+    {
+        "": "462",
+        "english": "beg",
+        "japanese": "懇願する"
+    },
+    {
+        "": "463",
+        "english": "freeze",
+        "japanese": "凍る"
+    },
+    {
+        "": "464",
+        "english": "adopt",
+        "japanese": "採用する"
+    },
+    {
+        "": "465",
+        "english": "measure",
+        "japanese": "測る"
+    },
+    {
+        "": "466",
+        "english": "flow",
+        "japanese": "流れる"
+    },
+    {
+        "": "467",
+        "english": "fulfil",
+        "japanese": "実現させる"
+    },
+    {
+        "": "468",
+        "english": "deliver",
+        "japanese": "配達する"
+    },
+    {
+        "": "469",
+        "english": "wrap",
+        "japanese": "包む"
+    },
+    {
+        "": "470",
+        "english": "knock",
+        "japanese": "ノックする"
+    },
+    {
+        "": "471",
+        "english": "spell",
+        "japanese": "つづる"
+    },
+    {
+        "": "472",
+        "english": "rush",
+        "japanese": "急いで行く"
+    },
+    {
+        "": "473",
+        "english": "pray",
+        "japanese": "切に願う"
+    },
+    {
+        "": "474",
+        "english": "reject",
+        "japanese": "拒絶する"
+    },
+    {
+        "": "475",
+        "english": "protest",
+        "japanese": "抗議する"
+    },
+    {
+        "": "476",
+        "english": "handle",
+        "japanese": "扱う"
+    },
+    {
+        "": "477",
+        "english": "disturb",
+        "japanese": "邪魔する"
+    },
+    {
+        "": "478",
+        "english": "gather",
+        "japanese": "集める"
+    },
+    {
+        "": "479",
+        "english": "copy",
+        "japanese": "写しをとる"
+    },
+    {
+        "": "480",
+        "english": "press",
+        "japanese": "押す"
+    },
+    {
+        "": "481",
+        "english": "consist",
+        "japanese": "成り立つ"
+    },
+    {
+        "": "482",
+        "english": "assist",
+        "japanese": "手助けする"
+    },
+    {
+        "": "483",
+        "english": "kick",
+        "japanese": "蹴る"
+    },
+    {
+        "": "484",
+        "english": "link",
+        "japanese": "結びつける"
+    },
+    {
+        "": "485",
+        "english": "adjust",
+        "japanese": "順応する"
+    },
+    {
+        "": "486",
+        "english": "defend",
+        "japanese": "守る"
+    },
+    {
+        "": "487",
+        "english": "shut",
+        "japanese": "閉める"
+    },
+    {
+        "": "488",
+        "english": "bear",
+        "japanese": "耐える"
+    },
+    {
+        "": "489",
+        "english": "task",
+        "japanese": "仕事"
+    },
+    {
+        "": "490",
+        "english": "hug",
+        "japanese": "ハグ"
+    },
+    {
+        "": "491",
+        "english": "clue",
+        "japanese": "手がかり"
+    },
+    {
+        "": "492",
+        "english": "percent",
+        "japanese": "パーセント"
+    },
+    {
+        "": "493",
+        "english": "dozen",
+        "japanese": "１ダース"
+    },
+    {
+        "": "494",
+        "english": "ghost",
+        "japanese": "幽霊"
+    },
+    {
+        "": "495",
+        "english": "error",
+        "japanese": "誤り"
+    },
+    {
+        "": "496",
+        "english": "trend",
+        "japanese": "流行"
+    },
+    {
+        "": "497",
+        "english": "thought",
+        "japanese": "考え"
+    },
+    {
+        "": "498",
+        "english": "alarm",
+        "japanese": "警報"
+    },
+    {
+        "": "499",
+        "english": "sample",
+        "japanese": "見本"
+    },
+    {
+        "": "500",
+        "english": "shadow",
+        "japanese": "影"
+    },
+    {
+        "": "501",
+        "english": "shade",
+        "japanese": "陰"
+    },
+    {
+        "": "502",
+        "english": "standard",
+        "japanese": "基準"
+    },
+    {
+        "": "503",
+        "english": "hunger",
+        "japanese": "飢え"
+    },
+    {
+        "": "504",
+        "english": "appeal",
+        "japanese": "訴え"
+    },
+    {
+        "": "505",
+        "english": "harm",
+        "japanese": "害"
+    },
+    {
+        "": "506",
+        "english": "pile",
+        "japanese": "山"
+    },
+    {
+        "": "507",
+        "english": "plenty",
+        "japanese": "たくさん"
+    },
+    {
+        "": "508",
+        "english": "edge",
+        "japanese": "端"
+    },
+    {
+        "": "509",
+        "english": "poison",
+        "japanese": "毒"
+    },
+    {
+        "": "510",
+        "english": "scale",
+        "japanese": "規模"
+    },
+    {
+        "": "511",
+        "english": "section",
+        "japanese": "節"
+    },
+    {
+        "": "512",
+        "english": "attempt",
+        "japanese": "試み"
+    },
+    {
+        "": "513",
+        "english": "merit",
+        "japanese": "長所"
+    },
+    {
+        "": "514",
+        "english": "trick",
+        "japanese": "いたずら"
+    },
+    {
+        "": "515",
+        "english": "second",
+        "japanese": "少しの間"
+    },
+    {
+        "": "516",
+        "english": "medium",
+        "japanese": "媒体"
+    },
+    {
+        "": "517",
+        "english": "unit",
+        "japanese": "単位"
+    },
+    {
+        "": "518",
+        "english": "ambition",
+        "japanese": "願望"
+    },
+    {
+        "": "519",
+        "english": "midnight",
+        "japanese": "夜の１２時"
+    },
+    {
+        "": "520",
+        "english": "power",
+        "japanese": "力"
+    },
+    {
+        "": "521",
+        "english": "principle",
+        "japanese": "信条"
+    },
+    {
+        "": "522",
+        "english": "vision",
+        "japanese": "展望"
+    },
+    {
+        "": "523",
+        "english": "quarter",
+        "japanese": "４分の１"
+    },
+    {
+        "": "524",
+        "english": "luck",
+        "japanese": "運"
+    },
+    {
+        "": "525",
+        "english": "quantity",
+        "japanese": "分量"
+    },
+    {
+        "": "526",
+        "english": "fault",
+        "japanese": "罪"
+    },
+    {
+        "": "527",
+        "english": "somehow",
+        "japanese": "何とかして"
+    },
+    {
+        "": "528",
+        "english": "forever",
+        "japanese": "永遠に"
+    },
+    {
+        "": "529",
+        "english": "mostly",
+        "japanese": "主に"
+    },
+    {
+        "": "530",
+        "english": "forward",
+        "japanese": "前へ"
+    },
+    {
+        "": "531",
+        "english": "nowadays",
+        "japanese": "近頃"
+    },
+    {
+        "": "532",
+        "english": "ahead",
+        "japanese": "前方に"
+    },
+    {
+        "": "533",
+        "english": "apart",
+        "japanese": "離れて"
+    },
+    {
+        "": "534",
+        "english": "altogether",
+        "japanese": "まったく"
+    },
+    {
+        "": "535",
+        "english": "throughout",
+        "japanese": "～の間じゅう"
+    },
+    {
+        "": "536",
+        "english": "beyond",
+        "japanese": "～の向こうに"
+    },
+    {
+        "": "537",
+        "english": "toward",
+        "japanese": "～の方向へ"
+    },
+    {
+        "": "538",
+        "english": "within",
+        "japanese": "～以内に"
+    },
+    {
+        "": "539",
+        "english": "above",
+        "japanese": "～の上方に"
+    },
+    {
+        "": "540",
+        "english": "below",
+        "japanese": "～より下に"
+    },
+    {
+        "": "541",
+        "english": "per",
+        "japanese": "～につき"
+    },
+    {
+        "": "542",
+        "english": "except",
+        "japanese": "～を除いて"
+    },
+    {
+        "": "543",
+        "english": "beside",
+        "japanese": "～のそばに"
+    },
+    {
+        "": "544",
+        "english": "unlike",
+        "japanese": "～と違って"
+    },
+    {
+        "": "545",
+        "english": "outside",
+        "japanese": "～の外に"
+    },
+    {
+        "": "546",
+        "english": "inside",
+        "japanese": "～の中に"
+    },
+    {
+        "": "547",
+        "english": "against",
+        "japanese": "～に反対して"
+    },
+    {
+        "": "548",
+        "english": "beneath",
+        "japanese": "～の下に"
+    },
+    {
+        "": "549",
+        "english": "plus",
+        "japanese": "～を加えて"
+    },
+    {
+        "": "550",
+        "english": "across",
+        "japanese": "～を横切って"
+    },
+    {
+        "": "551",
+        "english": "bring back",
+        "japanese": "返す"
+    },
+    {
+        "": "552",
+        "english": "carry out",
+        "japanese": "実行する"
+    },
+    {
+        "": "553",
+        "english": "date back to",
+        "japanese": "さかのぼる"
+    },
+    {
+        "": "554",
+        "english": "find out (about)",
+        "japanese": "知る"
+    },
+    {
+        "": "555",
+        "english": "get together (with A) (for B)",
+        "japanese": "集まる"
+    },
+    {
+        "": "556",
+        "english": "give off",
+        "japanese": "発する"
+    },
+    {
+        "": "557",
+        "english": "hand in",
+        "japanese": "提出する"
+    },
+    {
+        "": "558",
+        "english": "hang up",
+        "japanese": "電話を切る"
+    },
+    {
+        "": "559",
+        "english": "hold up",
+        "japanese": "支えている"
+    },
+    {
+        "": "560",
+        "english": "live on",
+        "japanese": "～で暮らしを立てる"
+    },
+    {
+        "": "561",
+        "english": "look after",
+        "japanese": "世話をする"
+    },
+    {
+        "": "562",
+        "english": "look out",
+        "japanese": "注意する"
+    },
+    {
+        "": "563",
+        "english": "look up",
+        "japanese": "調べる"
+    },
+    {
+        "": "564",
+        "english": "major in",
+        "japanese": "専攻する"
+    },
+    {
+        "": "565",
+        "english": "name A after B",
+        "japanese": "AにBの名を取って名付ける"
+    },
+    {
+        "": "566",
+        "english": "put down",
+        "japanese": "書き留める"
+    },
+    {
+        "": "567",
+        "english": "see off",
+        "japanese": "見送る"
+    },
+    {
+        "": "568",
+        "english": "take a look at",
+        "japanese": "見る"
+    },
+    {
+        "": "569",
+        "english": "take away",
+        "japanese": "片付ける"
+    },
+    {
+        "": "570",
+        "english": "take one's time ～ing",
+        "japanese": "～するのに時間をかける"
+    },
+    {
+        "": "571",
+        "english": "think of A as B",
+        "japanese": "AをBとみなす"
+    },
+    {
+        "": "572",
+        "english": "be about to",
+        "japanese": "～しようとしている"
+    },
+    {
+        "": "573",
+        "english": "be born into",
+        "japanese": "～の家庭に生まれる"
+    },
+    {
+        "": "574",
+        "english": "be faced with",
+        "japanese": "～に直面している"
+    },
+    {
+        "": "575",
+        "english": "be good at",
+        "japanese": "～が上手だ"
+    },
+    {
+        "": "576",
+        "english": "be in need of",
+        "japanese": "～を必要としている"
+    },
+    {
+        "": "577",
+        "english": "be made of / from",
+        "japanese": "～でできている"
+    },
+    {
+        "": "578",
+        "english": "be short of",
+        "japanese": "～が足りない"
+    },
+    {
+        "": "579",
+        "english": "be up to",
+        "japanese": "～次第である"
+    },
+    {
+        "": "580",
+        "english": "be worried about",
+        "japanese": "～のことを心配している"
+    },
+    {
+        "": "581",
+        "english": "(all) by oneself",
+        "japanese": "ひとりで"
+    },
+    {
+        "": "582",
+        "english": "(all) on one's own",
+        "japanese": "ひとりで"
+    },
+    {
+        "": "583",
+        "english": "above all",
+        "japanese": "とりわけ"
+    },
+    {
+        "": "584",
+        "english": "across from",
+        "japanese": "～の向かい側"
+    },
+    {
+        "": "585",
+        "english": "after all",
+        "japanese": "結局は"
+    },
+    {
+        "": "586",
+        "english": "at a time",
+        "japanese": "１度に"
+    },
+    {
+        "": "587",
+        "english": "by accident(chance)",
+        "japanese": "偶然に"
+    },
+    {
+        "": "588",
+        "english": "by mistake",
+        "japanese": "間違って"
+    },
+    {
+        "": "589",
+        "english": "day after day",
+        "japanese": "来る日も来る日も"
+    },
+    {
+        "": "590",
+        "english": "for free",
+        "japanese": "無料で"
+    },
+    {
+        "": "591",
+        "english": "from ～ on",
+        "japanese": "～以降"
+    },
+    {
+        "": "592",
+        "english": "from time to time",
+        "japanese": "時々"
+    },
+    {
+        "": "593",
+        "english": "in a hurry",
+        "japanese": "急いで行く"
+    },
+    {
+        "": "594",
+        "english": "in favor of",
+        "japanese": "～に賛成して"
+    },
+    {
+        "": "595",
+        "english": "in order to",
+        "japanese": "…するために"
+    },
+    {
+        "": "596",
+        "english": "in the past",
+        "japanese": "昔は"
+    },
+    {
+        "": "597",
+        "english": "in those days",
+        "japanese": "その当時は"
+    },
+    {
+        "": "598",
+        "english": "on purpose",
+        "japanese": "故意に"
+    },
+    {
+        "": "599",
+        "english": "over and over",
+        "japanese": "何度も"
+    },
+    {
+        "": "600",
+        "english": "upside down",
+        "japanese": "逆さまに"
+    },
+    {
+        "": "601",
+        "english": "a large number of",
+        "japanese": "たくさんの"
+    },
+    {
+        "": "602",
+        "english": "a series of",
+        "japanese": "一連の"
+    },
+    {
+        "": "603",
+        "english": "as long as",
+        "japanese": "～である限り"
+    },
+    {
+        "": "604",
+        "english": "as soon as",
+        "japanese": "～するとすぐに"
+    },
+    {
+        "": "605",
+        "english": "had better",
+        "japanese": "～するべきだ"
+    },
+    {
+        "": "606",
+        "english": "more and more",
+        "japanese": "ますます多くの"
+    },
+    {
+        "": "607",
+        "english": "not ～ at all",
+        "japanese": "全く～ではない"
+    },
+    {
+        "": "608",
+        "english": "not A but B",
+        "japanese": "AではなくてB"
+    },
+    {
+        "": "609",
+        "english": "the first time",
+        "japanese": "初めて～するときに"
+    },
+    {
+        "": "610",
+        "english": "when it comes to",
+        "japanese": "～のこととなると"
+    },
+    {
+        "": "611",
+        "english": "parent",
+        "japanese": "親"
+    },
+    {
+        "": "612",
+        "english": "husband",
+        "japanese": "夫"
+    },
+    {
+        "": "613",
+        "english": "wife",
+        "japanese": "妻"
+    },
+    {
+        "": "614",
+        "english": "kid",
+        "japanese": "子ども時代"
+    },
+    {
+        "": "615",
+        "english": "twin",
+        "japanese": "双子"
+    },
+    {
+        "": "616",
+        "english": "relative",
+        "japanese": "親戚"
+    },
+    {
+        "": "617",
+        "english": "cousin",
+        "japanese": "いとこ"
+    },
+    {
+        "": "618",
+        "english": "ancestor",
+        "japanese": "先祖"
+    },
+    {
+        "": "619",
+        "english": "job",
+        "japanese": "仕事"
+    },
+    {
+        "": "620",
+        "english": "work",
+        "japanese": "仕事"
+    },
+    {
+        "": "621",
+        "english": "occupation",
+        "japanese": "職業"
+    },
+    {
+        "": "622",
+        "english": "career",
+        "japanese": "職業"
+    },
+    {
+        "": "623",
+        "english": "business",
+        "japanese": "仕事"
+    },
+    {
+        "": "624",
+        "english": "interview",
+        "japanese": "面接"
+    },
+    {
+        "": "625",
+        "english": "hire",
+        "japanese": "雇う"
+    },
+    {
+        "": "626",
+        "english": "retire",
+        "japanese": "退職する"
+    },
+    {
+        "": "627",
+        "english": "clerk",
+        "japanese": "店員"
+    },
+    {
+        "": "628",
+        "english": "officer",
+        "japanese": "警官"
+    },
+    {
+        "": "629",
+        "english": "engineer",
+        "japanese": "技師"
+    },
+    {
+        "": "630",
+        "english": "artist",
+        "japanese": "芸術家"
+    },
+    {
+        "": "631",
+        "english": "director",
+        "japanese": "監督"
+    },
+    {
+        "": "632",
+        "english": "actor",
+        "japanese": "俳優"
+    },
+    {
+        "": "633",
+        "english": "nurse",
+        "japanese": "看護師"
+    },
+    {
+        "": "634",
+        "english": "secretary",
+        "japanese": "秘書"
+    },
+    {
+        "": "635",
+        "english": "agent",
+        "japanese": "代行業者"
+    },
+    {
+        "": "636",
+        "english": "civil",
+        "japanese": "民間の"
+    },
+    {
+        "": "637",
+        "english": "mayor",
+        "japanese": "市長"
+    },
+    {
+        "": "638",
+        "english": "chairperson",
+        "japanese": "議長"
+    },
+    {
+        "": "639",
+        "english": "professor",
+        "japanese": "教授"
+    },
+    {
+        "": "640",
+        "english": "principal",
+        "japanese": "校長"
+    },
+    {
+        "": "641",
+        "english": "expert",
+        "japanese": "専門家"
+    },
+    {
+        "": "642",
+        "english": "leader",
+        "japanese": "指導者"
+    },
+    {
+        "": "643",
+        "english": "queen",
+        "japanese": "女王"
+    },
+    {
+        "": "644",
+        "english": "prince",
+        "japanese": "王子"
+    },
+    {
+        "": "645",
+        "english": "royal",
+        "japanese": "国王の"
+    },
+    {
+        "": "646",
+        "english": "slave",
+        "japanese": "奴隷"
+    },
+    {
+        "": "647",
+        "english": "hall",
+        "japanese": "会館"
+    },
+    {
+        "": "648",
+        "english": "office",
+        "japanese": "事務所"
+    },
+    {
+        "": "649",
+        "english": "bank",
+        "japanese": "銀行"
+    },
+    {
+        "": "650",
+        "english": "apartment",
+        "japanese": "アパート"
+    },
+    {
+        "": "651",
+        "english": "library",
+        "japanese": "図書館"
+    },
+    {
+        "": "652",
+        "english": "gym",
+        "japanese": "体育館"
+    },
+    {
+        "": "653",
+        "english": "museum",
+        "japanese": "博物館"
+    },
+    {
+        "": "654",
+        "english": "theater",
+        "japanese": "劇場"
+    },
+    {
+        "": "655",
+        "english": "studio",
+        "japanese": "スタジオ"
+    },
+    {
+        "": "656",
+        "english": "stadium",
+        "japanese": "競技場"
+    },
+    {
+        "": "657",
+        "english": "temple",
+        "japanese": "寺院"
+    },
+    {
+        "": "658",
+        "english": "shrine",
+        "japanese": "聖堂"
+    },
+    {
+        "": "659",
+        "english": "castle",
+        "japanese": "城"
+    },
+    {
+        "": "660",
+        "english": "tower",
+        "japanese": "塔"
+    },
+    {
+        "": "661",
+        "english": "entrance",
+        "japanese": "入口"
+    },
+    {
+        "": "662",
+        "english": "exit",
+        "japanese": "出口"
+    },
+    {
+        "": "663",
+        "english": "architecture",
+        "japanese": "建築"
+    },
+    {
+        "": "664",
+        "english": "avenue",
+        "japanese": "大通り"
+    },
+    {
+        "": "665",
+        "english": "block",
+        "japanese": "１区画"
+    },
+    {
+        "": "666",
+        "english": "corner",
+        "japanese": "曲がり角"
+    },
+    {
+        "": "667",
+        "english": "intersection",
+        "japanese": "交差点"
+    },
+    {
+        "": "668",
+        "english": "zone",
+        "japanese": "地帯"
+    },
+    {
+        "": "669",
+        "english": "square",
+        "japanese": "広場"
+    },
+    {
+        "": "670",
+        "english": "market",
+        "japanese": "市場"
+    },
+    {
+        "": "671",
+        "english": "path",
+        "japanese": "小道"
+    },
+    {
+        "": "672",
+        "english": "slope",
+        "japanese": "坂"
+    },
+    {
+        "": "673",
+        "english": "traffic",
+        "japanese": "交通"
+    },
+    {
+        "": "674",
+        "english": "drive",
+        "japanese": "運転する"
+    },
+    {
+        "": "675",
+        "english": "ride",
+        "japanese": "乗る"
+    },
+    {
+        "": "676",
+        "english": "railroad",
+        "japanese": "鉄道"
+    },
+    {
+        "": "677",
+        "english": "subway",
+        "japanese": "地下鉄"
+    },
+    {
+        "": "678",
+        "english": "automobile",
+        "japanese": "自動車"
+    },
+    {
+        "": "679",
+        "english": "engine",
+        "japanese": "エンジン"
+    },
+    {
+        "": "680",
+        "english": "wheel",
+        "japanese": "ハンドル"
+    },
+    {
+        "": "681",
+        "english": "license",
+        "japanese": "免許"
+    },
+    {
+        "": "682",
+        "english": "airport",
+        "japanese": "空港"
+    },
+    {
+        "": "683",
+        "english": "flight",
+        "japanese": "フライト"
+    },
+    {
+        "": "684",
+        "english": "port",
+        "japanese": "港"
+    },
+    {
+        "": "685",
+        "english": "canal",
+        "japanese": "運河"
+    },
+    {
+        "": "686",
+        "english": "key",
+        "japanese": "カギ"
+    },
+    {
+        "": "687",
+        "english": "stair",
+        "japanese": "階段"
+    },
+    {
+        "": "688",
+        "english": "upstairs",
+        "japanese": "上の階に"
+    },
+    {
+        "": "689",
+        "english": "floor",
+        "japanese": "床"
+    },
+    {
+        "": "690",
+        "english": "shelf",
+        "japanese": "棚"
+    },
+    {
+        "": "691",
+        "english": "roof",
+        "japanese": "屋根"
+    },
+    {
+        "": "692",
+        "english": "ladder",
+        "japanese": "はしご"
+    },
+    {
+        "": "693",
+        "english": "yard",
+        "japanese": "庭"
+    },
+    {
+        "": "694",
+        "english": "closet",
+        "japanese": "クローゼット"
+    },
+    {
+        "": "695",
+        "english": "refrigerator",
+        "japanese": "冷蔵庫"
+    },
+    {
+        "": "696",
+        "english": "shower",
+        "japanese": "シャワー"
+    },
+    {
+        "": "697",
+        "english": "housework",
+        "japanese": "家事"
+    },
+    {
+        "": "698",
+        "english": "plastic",
+        "japanese": "プラスチックの　ビニールの"
+    },
+    {
+        "": "699",
+        "english": "plate",
+        "japanese": "皿"
+    },
+    {
+        "": "700",
+        "english": "glass",
+        "japanese": "グラス"
+    },
+    {
+        "": "701",
+        "english": "garbage",
+        "japanese": "生ごみ"
+    },
+    {
+        "": "702",
+        "english": "trash",
+        "japanese": "ごみ"
+    },
+    {
+        "": "703",
+        "english": "dust",
+        "japanese": "ほこり"
+    },
+    {
+        "": "704",
+        "english": "trap",
+        "japanese": "わな"
+    },
+    {
+        "": "705",
+        "english": "brush",
+        "japanese": "ブラシ"
+    },
+    {
+        "": "706",
+        "english": "comb",
+        "japanese": "くし"
+    },
+    {
+        "": "707",
+        "english": "blanket",
+        "japanese": "毛布"
+    },
+    {
+        "": "708",
+        "english": "sheet",
+        "japanese": "神"
+    },
+    {
+        "": "709",
+        "english": "label",
+        "japanese": "ラベル"
+    },
+    {
+        "": "710",
+        "english": "envelope",
+        "japanese": "封筒"
+    },
+    {
+        "": "711",
+        "english": "fashion",
+        "japanese": "流行"
+    },
+    {
+        "": "712",
+        "english": "style",
+        "japanese": "流行"
+    },
+    {
+        "": "713",
+        "english": "formal",
+        "japanese": "正式の"
+    },
+    {
+        "": "714",
+        "english": "tight",
+        "japanese": "きつい"
+    },
+    {
+        "": "715",
+        "english": "loose",
+        "japanese": "ゆったりした"
+    },
+    {
+        "": "716",
+        "english": "wear",
+        "japanese": "着ている"
+    },
+    {
+        "": "717",
+        "english": "clothes",
+        "japanese": "衣服"
+    },
+    {
+        "": "718",
+        "english": "dress",
+        "japanese": "衣服を着せる"
+    },
+    {
+        "": "719",
+        "english": "costume",
+        "japanese": "衣装"
+    },
+    {
+        "": "720",
+        "english": "tie",
+        "japanese": "結ぶ"
+    },
+    {
+        "": "721",
+        "english": "sew",
+        "japanese": "縫う"
+    },
+    {
+        "": "722",
+        "english": "frame",
+        "japanese": "フレーム"
+    },
+    {
+        "": "723",
+        "english": "button",
+        "japanese": "ボタン"
+    },
+    {
+        "": "724",
+        "english": "ring",
+        "japanese": "指輪"
+    },
+    {
+        "": "725",
+        "english": "jewel",
+        "japanese": "宝石"
+    },
+    {
+        "": "726",
+        "english": "wallet",
+        "japanese": "財布"
+    },
+    {
+        "": "727",
+        "english": "mobile",
+        "japanese": "携帯電話"
+    },
+    {
+        "": "728",
+        "english": "portable",
+        "japanese": "持ち運びできる"
+    },
+    {
+        "": "729",
+        "english": "umbrella",
+        "japanese": "傘"
+    },
+    {
+        "": "730",
+        "english": "silk",
+        "japanese": "絹"
+    },
+    {
+        "": "731",
+        "english": "cotton",
+        "japanese": "綿"
+    },
+    {
+        "": "732",
+        "english": "leather",
+        "japanese": "革"
+    },
+    {
+        "": "733",
+        "english": "feather",
+        "japanese": "羽"
+    },
+    {
+        "": "734",
+        "english": "meal",
+        "japanese": "食事"
+    },
+    {
+        "": "735",
+        "english": "supper",
+        "japanese": "夕食"
+    },
+    {
+        "": "736",
+        "english": "snack",
+        "japanese": "軽食"
+    },
+    {
+        "": "737",
+        "english": "dessert",
+        "japanese": "デザート"
+    },
+    {
+        "": "738",
+        "english": "diet",
+        "japanese": "ダイエット"
+    },
+    {
+        "": "739",
+        "english": "chopstick",
+        "japanese": "箸"
+    },
+    {
+        "": "740",
+        "english": "bite",
+        "japanese": "かむ"
+    },
+    {
+        "": "741",
+        "english": "flavor",
+        "japanese": "風味"
+    },
+    {
+        "": "742",
+        "english": "delicious",
+        "japanese": "とてもおいしい"
+    },
+    {
+        "": "743",
+        "english": "bitter",
+        "japanese": "苦い"
+    },
+    {
+        "": "744",
+        "english": "sour",
+        "japanese": "酸っぱい"
+    },
+    {
+        "": "745",
+        "english": "recipe",
+        "japanese": "調理法"
+    },
+    {
+        "": "746",
+        "english": "mix",
+        "japanese": "混ぜる"
+    },
+    {
+        "": "747",
+        "english": "pour",
+        "japanese": "注ぐ"
+    },
+    {
+        "": "748",
+        "english": "fry",
+        "japanese": "炒める"
+    },
+    {
+        "": "749",
+        "english": "boil",
+        "japanese": "ゆでる"
+    },
+    {
+        "": "750",
+        "english": "steam",
+        "japanese": "蒸す"
+    },
+    {
+        "": "751",
+        "english": "bake",
+        "japanese": "焼く"
+    },
+    {
+        "": "752",
+        "english": "harvest",
+        "japanese": "収穫"
+    },
+    {
+        "": "753",
+        "english": "vegetable",
+        "japanese": "野菜"
+    },
+    {
+        "": "754",
+        "english": "meat",
+        "japanese": "肉"
+    },
+    {
+        "": "755",
+        "english": "wheat",
+        "japanese": "小麦"
+    },
+    {
+        "": "756",
+        "english": "flour",
+        "japanese": "小麦粉"
+    },
+    {
+        "": "757",
+        "english": "honey",
+        "japanese": "ハチミツ"
+    },
+    {
+        "": "758",
+        "english": "salt",
+        "japanese": "塩"
+    },
+    {
+        "": "759",
+        "english": "menu",
+        "japanese": "メニュー"
+    },
+    {
+        "": "760",
+        "english": "choice",
+        "japanese": "選択"
+    },
+    {
+        "": "761",
+        "english": "service",
+        "japanese": "サービス"
+    },
+    {
+        "": "762",
+        "english": "tip",
+        "japanese": "チップ"
+    },
+    {
+        "": "763",
+        "english": "cancel",
+        "japanese": "取り消す"
+    },
+    {
+        "": "764",
+        "english": "culture",
+        "japanese": "文化"
+    },
+    {
+        "": "765",
+        "english": "hobby",
+        "japanese": "趣味"
+    },
+    {
+        "": "766",
+        "english": "amusement",
+        "japanese": "楽しみ"
+    },
+    {
+        "": "767",
+        "english": "entertainment",
+        "japanese": "娯楽"
+    },
+    {
+        "": "768",
+        "english": "collect",
+        "japanese": "集める"
+    },
+    {
+        "": "769",
+        "english": "exhibit",
+        "japanese": "展示する"
+    },
+    {
+        "": "770",
+        "english": "instrument",
+        "japanese": "楽器"
+    },
+    {
+        "": "771",
+        "english": "tune",
+        "japanese": "音調"
+    },
+    {
+        "": "772",
+        "english": "film",
+        "japanese": "映画"
+    },
+    {
+        "": "773",
+        "english": "cartoon",
+        "japanese": "アニメ"
+    },
+    {
+        "": "774",
+        "english": "comic",
+        "japanese": "マンガ"
+    },
+    {
+        "": "775",
+        "english": "photograph",
+        "japanese": "写真"
+    },
+    {
+        "": "776",
+        "english": "portrait",
+        "japanese": "肖像画"
+    },
+    {
+        "": "777",
+        "english": "magic",
+        "japanese": "手品"
+    },
+    {
+        "": "778",
+        "english": "tour",
+        "japanese": "旅行する"
+    },
+    {
+        "": "779",
+        "english": "journey",
+        "japanese": "旅行"
+    },
+    {
+        "": "780",
+        "english": "sightseeing",
+        "japanese": "観光"
+    },
+    {
+        "": "781",
+        "english": "adventure",
+        "japanese": "冒険"
+    },
+    {
+        "": "782",
+        "english": "explore",
+        "japanese": "探検"
+    },
+    {
+        "": "783",
+        "english": "wander",
+        "japanese": "歩き回る"
+    },
+    {
+        "": "784",
+        "english": "camp",
+        "japanese": "キャンプ"
+    },
+    {
+        "": "785",
+        "english": "tourist",
+        "japanese": "観光客"
+    },
+    {
+        "": "786",
+        "english": "passenger",
+        "japanese": "乗客"
+    },
+    {
+        "": "787",
+        "english": "guide",
+        "japanese": "ガイド"
+    },
+    {
+        "": "788",
+        "english": "vacation",
+        "japanese": "休暇"
+    },
+    {
+        "": "789",
+        "english": "souvenir",
+        "japanese": "土産"
+    },
+    {
+        "": "790",
+        "english": "pack",
+        "japanese": "荷物を詰める"
+    },
+    {
+        "": "791",
+        "english": "win",
+        "japanese": "勝つ"
+    },
+    {
+        "": "792",
+        "english": "victory",
+        "japanese": "勝利"
+    },
+    {
+        "": "793",
+        "english": "record",
+        "japanese": "記録"
+    },
+    {
+        "": "794",
+        "english": "score",
+        "japanese": "得点"
+    },
+    {
+        "": "795",
+        "english": "prize",
+        "japanese": "賞"
+    },
+    {
+        "": "796",
+        "english": "award",
+        "japanese": "賞"
+    },
+    {
+        "": "797",
+        "english": "race",
+        "japanese": "競争"
+    },
+    {
+        "": "798",
+        "english": "match",
+        "japanese": "試合"
+    },
+    {
+        "": "799",
+        "english": "tournament",
+        "japanese": "トーナメント"
+    },
+    {
+        "": "800",
+        "english": "professional",
+        "japanese": "プロの"
+    },
+    {
+        "": "801",
+        "english": "athlete",
+        "japanese": "運動選手"
+    },
+    {
+        "": "802",
+        "english": "coach",
+        "japanese": "コーチ"
+    },
+    {
+        "": "803",
+        "english": "rival",
+        "japanese": "ライバル"
+    },
+    {
+        "": "804",
+        "english": "train",
+        "japanese": "訓練する"
+    },
+    {
+        "": "805",
+        "english": "exercise",
+        "japanese": "運動する"
+    },
+    {
+        "": "806",
+        "english": "practice",
+        "japanese": "練習する"
+    },
+    {
+        "": "807",
+        "english": "indoor",
+        "japanese": "屋内の"
+    },
+    {
+        "": "808",
+        "english": "flag",
+        "japanese": "旗"
+    },
+    {
+        "": "809",
+        "english": "nature",
+        "japanese": "自然"
+    },
+    {
+        "": "810",
+        "english": "climate",
+        "japanese": "気候"
+    },
+    {
+        "": "811",
+        "english": "forecast",
+        "japanese": "予報"
+    },
+    {
+        "": "812",
+        "english": "temperature",
+        "japanese": "温度"
+    },
+    {
+        "": "813",
+        "english": "wind",
+        "japanese": "風"
+    },
+    {
+        "": "814",
+        "english": "breeze",
+        "japanese": "そよ風"
+    },
+    {
+        "": "815",
+        "english": "storm",
+        "japanese": "嵐"
+    },
+    {
+        "": "816",
+        "english": "thunder",
+        "japanese": "雷"
+    },
+    {
+        "": "817",
+        "english": "wave",
+        "japanese": "波"
+    },
+    {
+        "": "818",
+        "english": "ray",
+        "japanese": "光線"
+    },
+    {
+        "": "819",
+        "english": "sunlight",
+        "japanese": "日光"
+    },
+    {
+        "": "820",
+        "english": "sunshine",
+        "japanese": "日差し"
+    },
+    {
+        "": "821",
+        "english": "sunset",
+        "japanese": "日没"
+    },
+    {
+        "": "822",
+        "english": "landscape",
+        "japanese": "風景"
+    },
+    {
+        "": "823",
+        "english": "continent",
+        "japanese": "大陸"
+    },
+    {
+        "": "824",
+        "english": "ocean",
+        "japanese": "海"
+    },
+    {
+        "": "825",
+        "english": "island",
+        "japanese": "島"
+    },
+    {
+        "": "826",
+        "english": "ground",
+        "japanese": "地面"
+    },
+    {
+        "": "827",
+        "english": "cave",
+        "japanese": "洞窟"
+    },
+    {
+        "": "828",
+        "english": "bay",
+        "japanese": "湾"
+    },
+    {
+        "": "829",
+        "english": "coast",
+        "japanese": "海岸"
+    },
+    {
+        "": "830",
+        "english": "shore",
+        "japanese": "岸"
+    },
+    {
+        "": "831",
+        "english": "horizon",
+        "japanese": "地平線"
+    },
+    {
+        "": "832",
+        "english": "valley",
+        "japanese": "谷"
+    },
+    {
+        "": "833",
+        "english": "desert",
+        "japanese": "砂漠"
+    },
+    {
+        "": "834",
+        "english": "sand",
+        "japanese": "砂"
+    },
+    {
+        "": "835",
+        "english": "mud",
+        "japanese": "泥"
+    },
+    {
+        "": "836",
+        "english": "rock",
+        "japanese": "岩"
+    },
+    {
+        "": "837",
+        "english": "environment",
+        "japanese": "環境"
+    },
+    {
+        "": "838",
+        "english": "recycle",
+        "japanese": "リサイクルする"
+    },
+    {
+        "": "839",
+        "english": "pollution",
+        "japanese": "汚染"
+    },
+    {
+        "": "840",
+        "english": "disaster",
+        "japanese": "災害"
+    },
+    {
+        "": "841",
+        "english": "earthquake",
+        "japanese": "地震"
+    },
+    {
+        "": "842",
+        "english": "flood",
+        "japanese": "洪水"
+    },
+    {
+        "": "843",
+        "english": "rescue",
+        "japanese": "救助する"
+    },
+    {
+        "": "844",
+        "english": "creature",
+        "japanese": "生き物"
+    },
+    {
+        "": "845",
+        "english": "species",
+        "japanese": "種"
+    },
+    {
+        "": "846",
+        "english": "wild",
+        "japanese": "野生の"
+    },
+    {
+        "": "847",
+        "english": "wildlife",
+        "japanese": "野生生物"
+    },
+    {
+        "": "848",
+        "english": "insect",
+        "japanese": "昆虫"
+    },
+    {
+        "": "849",
+        "english": "dinosaur",
+        "japanese": "恐竜"
+    },
+    {
+        "": "850",
+        "english": "hunt",
+        "japanese": "狩りをする"
+    },
+    {
+        "": "851",
+        "english": "bark",
+        "japanese": "ほえる"
+    },
+    {
+        "": "852",
+        "english": "nest",
+        "japanese": "巣"
+    },
+    {
+        "": "853",
+        "english": "wood",
+        "japanese": "森林"
+    },
+    {
+        "": "854",
+        "english": "bush",
+        "japanese": "茂み"
+    },
+    {
+        "": "855",
+        "english": "branch",
+        "japanese": "枝"
+    },
+    {
+        "": "856",
+        "english": "root",
+        "japanese": "根"
+    },
+    {
+        "": "857",
+        "english": "grass",
+        "japanese": "芝生"
+    },
+    {
+        "": "858",
+        "english": "leaf",
+        "japanese": "葉"
+    },
+    {
+        "": "859",
+        "english": "bloom",
+        "japanese": "開花"
+    },
+    {
+        "": "860",
+        "english": "seed",
+        "japanese": "種"
+    },
+    {
+        "": "861",
+        "english": "human",
+        "japanese": "人間の"
+    },
+    {
+        "": "862",
+        "english": "person",
+        "japanese": "人"
+    },
+    {
+        "": "863",
+        "english": "people",
+        "japanese": "人々"
+    },
+    {
+        "": "864",
+        "english": "crowd",
+        "japanese": "群衆"
+    },
+    {
+        "": "865",
+        "english": "generation",
+        "japanese": "世代"
+    },
+    {
+        "": "866",
+        "english": "male",
+        "japanese": "男性の"
+    },
+    {
+        "": "867",
+        "english": "female",
+        "japanese": "女性の"
+    },
+    {
+        "": "868",
+        "english": "gender",
+        "japanese": "ジェンダー"
+    },
+    {
+        "": "869",
+        "english": "neighbor",
+        "japanese": "隣人"
+    },
+    {
+        "": "870",
+        "english": "stranger",
+        "japanese": "不案内な人"
+    },
+    {
+        "": "871",
+        "english": "birth",
+        "japanese": "誕生"
+    },
+    {
+        "": "872",
+        "english": "childhood",
+        "japanese": "子ども時代"
+    },
+    {
+        "": "873",
+        "english": "youth",
+        "japanese": "青年時代"
+    },
+    {
+        "": "874",
+        "english": "teenager",
+        "japanese": "ティーンエイジャー"
+    },
+    {
+        "": "875",
+        "english": "adult",
+        "japanese": "大人"
+    },
+    {
+        "": "876",
+        "english": "junior",
+        "japanese": "年少者"
+    },
+    {
+        "": "877",
+        "english": "senior",
+        "japanese": "年長者"
+    },
+    {
+        "": "878",
+        "english": "elderly",
+        "japanese": "年配の"
+    },
+    {
+        "": "879",
+        "english": "dead",
+        "japanese": "死んでいる"
+    },
+    {
+        "": "880",
+        "english": "age",
+        "japanese": "年齢"
+    },
+    {
+        "": "881",
+        "english": "physical",
+        "japanese": "身体の"
+    },
+    {
+        "": "882",
+        "english": "condition",
+        "japanese": "状態"
+    },
+    {
+        "": "883",
+        "english": "function",
+        "japanese": "機能"
+    },
+    {
+        "": "884",
+        "english": "sight",
+        "japanese": "視力"
+    },
+    {
+        "": "885",
+        "english": "weight",
+        "japanese": "体重"
+    },
+    {
+        "": "886",
+        "english": "fat",
+        "japanese": "太った"
+    },
+    {
+        "": "887",
+        "english": "thin",
+        "japanese": "やせた"
+    },
+    {
+        "": "888",
+        "english": "slim",
+        "japanese": "ほっそりした"
+    },
+    {
+        "": "889",
+        "english": "ugly",
+        "japanese": "醜い"
+    },
+    {
+        "": "890",
+        "english": "thirsty",
+        "japanese": "喉の渇いた"
+    },
+    {
+        "": "891",
+        "english": "tear",
+        "japanese": "涙"
+    },
+    {
+        "": "892",
+        "english": "sweat",
+        "japanese": "汗"
+    },
+    {
+        "": "893",
+        "english": "hospital",
+        "japanese": "病院"
+    },
+    {
+        "": "894",
+        "english": "ambulance",
+        "japanese": "救急車"
+    },
+    {
+        "": "895",
+        "english": "wheelchair",
+        "japanese": "車いす"
+    },
+    {
+        "": "896",
+        "english": "patient",
+        "japanese": "患者"
+    },
+    {
+        "": "897",
+        "english": "disease",
+        "japanese": "病気の"
+    },
+    {
+        "": "898",
+        "english": "illness",
+        "japanese": "病気の"
+    },
+    {
+        "": "899",
+        "english": "ill",
+        "japanese": "病気で"
+    },
+    {
+        "": "900",
+        "english": "pain",
+        "japanese": "痛み"
+    },
+    {
+        "": "901",
+        "english": "injure",
+        "japanese": "傷つける"
+    },
+    {
+        "": "902",
+        "english": "headache",
+        "japanese": "頭痛"
+    },
+    {
+        "": "903",
+        "english": "cancer",
+        "japanese": "ガン"
+    },
+    {
+        "": "904",
+        "english": "breathe",
+        "japanese": "呼吸する"
+    },
+    {
+        "": "905",
+        "english": "touch",
+        "japanese": "触れる"
+    },
+    {
+        "": "906",
+        "english": "pat",
+        "japanese": "たたく"
+    },
+    {
+        "": "907",
+        "english": "shout",
+        "japanese": "叫ぶ"
+    },
+    {
+        "": "908",
+        "english": "scream",
+        "japanese": "金切り声を出す"
+    },
+    {
+        "": "909",
+        "english": "whisper",
+        "japanese": "ささやく"
+    },
+    {
+        "": "910",
+        "english": "bow",
+        "japanese": "おじぎをする"
+    },
+    {
+        "": "911",
+        "english": "bend",
+        "japanese": "かがむ"
+    },
+    {
+        "": "912",
+        "english": "forehead",
+        "japanese": "額"
+    },
+    {
+        "": "913",
+        "english": "cheek",
+        "japanese": "頬"
+    },
+    {
+        "": "914",
+        "english": "lip",
+        "japanese": "唇"
+    },
+    {
+        "": "915",
+        "english": "tooth",
+        "japanese": "歯"
+    },
+    {
+        "": "916",
+        "english": "throat",
+        "japanese": "喉の渇いた"
+    },
+    {
+        "": "917",
+        "english": "shoulder",
+        "japanese": "肩"
+    },
+    {
+        "": "918",
+        "english": "chest",
+        "japanese": "胸"
+    },
+    {
+        "": "919",
+        "english": "elbow",
+        "japanese": "肘"
+    },
+    {
+        "": "920",
+        "english": "finger",
+        "japanese": "指"
+    },
+    {
+        "": "921",
+        "english": "thumb",
+        "japanese": "親指"
+    },
+    {
+        "": "922",
+        "english": "nail",
+        "japanese": "つ目"
+    },
+    {
+        "": "923",
+        "english": "toe",
+        "japanese": "つま先"
+    },
+    {
+        "": "924",
+        "english": "ankle",
+        "japanese": "足首"
+    },
+    {
+        "": "925",
+        "english": "skin",
+        "japanese": "皮膚"
+    },
+    {
+        "": "926",
+        "english": "brain",
+        "japanese": "脳"
+    },
+    {
+        "": "927",
+        "english": "heart",
+        "japanese": "心臓"
+    },
+    {
+        "": "928",
+        "english": "stomach",
+        "japanese": "胃"
+    },
+    {
+        "": "929",
+        "english": "blood",
+        "japanese": "血液"
+    },
+    {
+        "": "930",
+        "english": "bone",
+        "japanese": "骨"
+    },
+    {
+        "": "931",
+        "english": "muscle",
+        "japanese": "筋肉"
+    },
+    {
+        "": "932",
+        "english": "emotion",
+        "japanese": "漢城"
+    },
+    {
+        "": "933",
+        "english": "mind",
+        "japanese": "心"
+    },
+    {
+        "": "934",
+        "english": "mental",
+        "japanese": "心の"
+    },
+    {
+        "": "935",
+        "english": "pleasant",
+        "japanese": "楽しい"
+    },
+    {
+        "": "936",
+        "english": "suffer",
+        "japanese": "苦しむ"
+    },
+    {
+        "": "937",
+        "english": "upset",
+        "japanese": "動転して"
+    },
+    {
+        "": "938",
+        "english": "nervous",
+        "japanese": "心配して"
+    },
+    {
+        "": "939",
+        "english": "lonely",
+        "japanese": "孤独な"
+    },
+    {
+        "": "940",
+        "english": "shocked",
+        "japanese": "衝撃をうけた"
+    },
+    {
+        "": "941",
+        "english": "stress",
+        "japanese": "ストレス"
+    },
+    {
+        "": "942",
+        "english": "mad",
+        "japanese": "怒って"
+    },
+    {
+        "": "943",
+        "english": "anger",
+        "japanese": "怒り"
+    },
+    {
+        "": "944",
+        "english": "joy",
+        "japanese": "喜び"
+    },
+    {
+        "": "945",
+        "english": "relaxed",
+        "japanese": "くつろいだ"
+    },
+    {
+        "": "946",
+        "english": "fear",
+        "japanese": "恐怖"
+    },
+    {
+        "": "947",
+        "english": "panic",
+        "japanese": "パニック"
+    },
+    {
+        "": "948",
+        "english": "character",
+        "japanese": "性格"
+    },
+    {
+        "": "949",
+        "english": "humor",
+        "japanese": "ユーモア"
+    },
+    {
+        "": "950",
+        "english": "frank",
+        "japanese": "率直な"
+    },
+    {
+        "": "951",
+        "english": "cheerful",
+        "japanese": "元気な"
+    },
+    {
+        "": "952",
+        "english": "friendly",
+        "japanese": "親切な"
+    },
+    {
+        "": "953",
+        "english": "gentle",
+        "japanese": "優しい"
+    },
+    {
+        "": "954",
+        "english": "calm",
+        "japanese": "落ち着いた"
+    },
+    {
+        "": "955",
+        "english": "lively",
+        "japanese": "元気な"
+    },
+    {
+        "": "956",
+        "english": "shy",
+        "japanese": "恥ずかしがりの"
+    },
+    {
+        "": "957",
+        "english": "strict",
+        "japanese": "厳しい"
+    },
+    {
+        "": "958",
+        "english": "positive",
+        "japanese": "前向きの"
+    },
+    {
+        "": "959",
+        "english": "negative",
+        "japanese": "悲観的な"
+    },
+    {
+        "": "960",
+        "english": "active",
+        "japanese": "活動的な"
+    },
+    {
+        "": "961",
+        "english": "lazy",
+        "japanese": "怠惰な"
+    },
+    {
+        "": "962",
+        "english": "communication",
+        "japanese": "コミュニケーション"
+    },
+    {
+        "": "963",
+        "english": "greet",
+        "japanese": "挨拶する"
+    },
+    {
+        "": "964",
+        "english": "conversation",
+        "japanese": "会話"
+    },
+    {
+        "": "965",
+        "english": "chat",
+        "japanese": "おしゃべりする"
+    },
+    {
+        "": "966",
+        "english": "text",
+        "japanese": "メッセージを送る"
+    },
+    {
+        "": "967",
+        "english": "e-mail",
+        "japanese": "Eメール"
+    },
+    {
+        "": "968",
+        "english": "address",
+        "japanese": "住所"
+    },
+    {
+        "": "969",
+        "english": "translate",
+        "japanese": "翻訳する"
+    },
+    {
+        "": "970",
+        "english": "argue",
+        "japanese": "口論する"
+    },
+    {
+        "": "971",
+        "english": "claim",
+        "japanese": "主張する"
+    },
+    {
+        "": "972",
+        "english": "insist",
+        "japanese": "強く主張する"
+    },
+    {
+        "": "973",
+        "english": "praise",
+        "japanese": "褒める"
+    },
+    {
+        "": "974",
+        "english": "debate",
+        "japanese": "討論"
+    },
+    {
+        "": "975",
+        "english": "blame",
+        "japanese": "非難する"
+    },
+    {
+        "": "976",
+        "english": "joke",
+        "japanese": "冗談"
+    },
+    {
+        "": "977",
+        "english": "pronounce",
+        "japanese": "発音する"
+    },
+    {
+        "": "978",
+        "english": "express",
+        "japanese": "言い表す"
+    },
+    {
+        "": "979",
+        "english": "state",
+        "japanese": "はっきりと述べる"
+    },
+    {
+        "": "980",
+        "english": "define",
+        "japanese": "定義する"
+    },
+    {
+        "": "981",
+        "english": "describe",
+        "japanese": "特徴を述べる"
+    },
+    {
+        "": "982",
+        "english": "refer",
+        "japanese": "言及する"
+    },
+    {
+        "": "983",
+        "english": "predict",
+        "japanese": "予測する"
+    },
+    {
+        "": "984",
+        "english": "comment",
+        "japanese": "論評"
+    },
+    {
+        "": "985",
+        "english": "term",
+        "japanese": "用語"
+    },
+    {
+        "": "986",
+        "english": "publish",
+        "japanese": "出版する"
+    },
+    {
+        "": "987",
+        "english": "novel",
+        "japanese": "小説"
+    },
+    {
+        "": "988",
+        "english": "fiction",
+        "japanese": "フィクション"
+    },
+    {
+        "": "989",
+        "english": "essay",
+        "japanese": "小論文"
+    },
+    {
+        "": "990",
+        "english": "newspaper",
+        "japanese": "新聞"
+    },
+    {
+        "": "991",
+        "english": "magazine",
+        "japanese": "雑誌"
+    },
+    {
+        "": "992",
+        "english": "journal",
+        "japanese": "専門誌"
+    },
+    {
+        "": "993",
+        "english": "article",
+        "japanese": "記事"
+    },
+    {
+        "": "994",
+        "english": "title",
+        "japanese": "題名"
+    },
+    {
+        "": "995",
+        "english": "poem",
+        "japanese": "詩"
+    },
+    {
+        "": "996",
+        "english": "tale",
+        "japanese": "話"
+    },
+    {
+        "": "997",
+        "english": "chapter",
+        "japanese": "章"
+    },
+    {
+        "": "998",
+        "english": "education",
+        "japanese": "教育"
+    },
+    {
+        "": "999",
+        "english": "knowledge",
+        "japanese": "知識"
+    },
+    {
+        "": "1000",
+        "english": "intelligent",
+        "japanese": "知能の高い"
+    },
+    {
+        "": "1001",
+        "english": "logic",
+        "japanese": "論理"
+    },
+    {
+        "": "1002",
+        "english": "talent",
+        "japanese": "才能"
+    },
+    {
+        "": "1003",
+        "english": "master",
+        "japanese": "習得する"
+    },
+    {
+        "": "1004",
+        "english": "solve",
+        "japanese": "解く"
+    },
+    {
+        "": "1005",
+        "english": "review",
+        "japanese": "復習する"
+    },
+    {
+        "": "1006",
+        "english": "textbook",
+        "japanese": "教科書"
+    },
+    {
+        "": "1007",
+        "english": "dictionary",
+        "japanese": "辞書"
+    },
+    {
+        "": "1008",
+        "english": "lecture",
+        "japanese": "講義"
+    },
+    {
+        "": "1009",
+        "english": "subject",
+        "japanese": "科目"
+    },
+    {
+        "": "1010",
+        "english": "mathematics",
+        "japanese": "数学"
+    },
+    {
+        "": "1011",
+        "english": "biology",
+        "japanese": "生物学"
+    },
+    {
+        "": "1012",
+        "english": "elementary",
+        "japanese": "初等の"
+    },
+    {
+        "": "1013",
+        "english": "college",
+        "japanese": "大学"
+    },
+    {
+        "": "1014",
+        "english": "university",
+        "japanese": "大学"
+    },
+    {
+        "": "1015",
+        "english": "scholar",
+        "japanese": "学者"
+    },
+    {
+        "": "1016",
+        "english": "enter",
+        "japanese": "入学する"
+    },
+    {
+        "": "1017",
+        "english": "attend",
+        "japanese": "出席する"
+    },
+    {
+        "": "1018",
+        "english": "absent",
+        "japanese": "欠席の"
+    },
+    {
+        "": "1019",
+        "english": "graduate",
+        "japanese": "卒業する"
+    },
+    {
+        "": "1020",
+        "english": "grade",
+        "japanese": "成績"
+    },
+    {
+        "": "1021",
+        "english": "quiz",
+        "japanese": "小テスト"
+    },
+    {
+        "": "1022",
+        "english": "homework",
+        "japanese": "宿題"
+    },
+    {
+        "": "1023",
+        "english": "science",
+        "japanese": "科学"
+    },
+    {
+        "": "1024",
+        "english": "chemical",
+        "japanese": "化学"
+    },
+    {
+        "": "1025",
+        "english": "experiment",
+        "japanese": "実験"
+    },
+    {
+        "": "1026",
+        "english": "element",
+        "japanese": "元素"
+    },
+    {
+        "": "1027",
+        "english": "oxygen",
+        "japanese": "酸素"
+    },
+    {
+        "": "1028",
+        "english": "technology",
+        "japanese": "科学技術"
+    },
+    {
+        "": "1029",
+        "english": "advance",
+        "japanese": "進歩"
+    },
+    {
+        "": "1030",
+        "english": "machine",
+        "japanese": "機械"
+    },
+    {
+        "": "1031",
+        "english": "automatic",
+        "japanese": "自動の"
+    },
+    {
+        "": "1032",
+        "english": "invent",
+        "japanese": "発明する"
+    },
+    {
+        "": "1033",
+        "english": "operate",
+        "japanese": "操作する"
+    },
+    {
+        "": "1034",
+        "english": "artificial",
+        "japanese": "人口の"
+    },
+    {
+        "": "1035",
+        "english": "web",
+        "japanese": "ウェブ"
+    },
+    {
+        "": "1036",
+        "english": "material",
+        "japanese": "材料"
+    },
+    {
+        "": "1037",
+        "english": "resource",
+        "japanese": "資源"
+    },
+    {
+        "": "1038",
+        "english": "energy",
+        "japanese": "エネルギー"
+    },
+    {
+        "": "1039",
+        "english": "electricity",
+        "japanese": "電気"
+    },
+    {
+        "": "1040",
+        "english": "battery",
+        "japanese": "バッテリー"
+    },
+    {
+        "": "1041",
+        "english": "oil",
+        "japanese": "石油"
+    },
+    {
+        "": "1042",
+        "english": "gas",
+        "japanese": "ガス"
+    },
+    {
+        "": "1043",
+        "english": "coal",
+        "japanese": "石炭"
+    },
+    {
+        "": "1044",
+        "english": "metal",
+        "japanese": "金属"
+    },
+    {
+        "": "1045",
+        "english": "steel",
+        "japanese": "鋼鉄"
+    },
+    {
+        "": "1046",
+        "english": "nuclear",
+        "japanese": "核エネルギーの"
+    },
+    {
+        "": "1047",
+        "english": "universe",
+        "japanese": "宇宙"
+    },
+    {
+        "": "1048",
+        "english": "planet",
+        "japanese": "惑星"
+    },
+    {
+        "": "1049",
+        "english": "astronaut",
+        "japanese": "宇宙飛行士"
+    },
+    {
+        "": "1050",
+        "english": "earth",
+        "japanese": "地球"
+    },
+    {
+        "": "1051",
+        "english": "cash",
+        "japanese": "現金"
+    },
+    {
+        "": "1052",
+        "english": "earn",
+        "japanese": "得る"
+    },
+    {
+        "": "1053",
+        "english": "reward",
+        "japanese": "報酬"
+    },
+    {
+        "": "1054",
+        "english": "income",
+        "japanese": "収入"
+    },
+    {
+        "": "1055",
+        "english": "budget",
+        "japanese": "世さん"
+    },
+    {
+        "": "1056",
+        "english": "tax",
+        "japanese": "税金"
+    },
+    {
+        "": "1057",
+        "english": "consume",
+        "japanese": "消費する"
+    },
+    {
+        "": "1058",
+        "english": "benefit",
+        "japanese": "利益"
+    },
+    {
+        "": "1059",
+        "english": "wealth",
+        "japanese": "富"
+    },
+    {
+        "": "1060",
+        "english": "price",
+        "japanese": "価格"
+    },
+    {
+        "": "1061",
+        "english": "cheap",
+        "japanese": "安い"
+    },
+    {
+        "": "1062",
+        "english": "reasonable",
+        "japanese": "手頃な"
+    },
+    {
+        "": "1063",
+        "english": "sale",
+        "japanese": "特売"
+    },
+    {
+        "": "1064",
+        "english": "charge",
+        "japanese": "料金"
+    },
+    {
+        "": "1065",
+        "english": "advertisement",
+        "japanese": "広告"
+    },
+    {
+        "": "1066",
+        "english": "commercial",
+        "japanese": "商業の"
+    },
+    {
+        "": "1067",
+        "english": "trade",
+        "japanese": "貿易"
+    },
+    {
+        "": "1068",
+        "english": "import",
+        "japanese": "輸入する"
+    },
+    {
+        "": "1069",
+        "english": "export",
+        "japanese": "輸出する"
+    },
+    {
+        "": "1070",
+        "english": "factory",
+        "japanese": "工場"
+    },
+    {
+        "": "1071",
+        "english": "agriculture",
+        "japanese": "農業"
+    },
+    {
+        "": "1072",
+        "english": "society",
+        "japanese": "社会"
+    },
+    {
+        "": "1073",
+        "english": "community",
+        "japanese": "地域社会"
+    },
+    {
+        "": "1074",
+        "english": "organization",
+        "japanese": "組織"
+    },
+    {
+        "": "1075",
+        "english": "committee",
+        "japanese": "委員会"
+    },
+    {
+        "": "1076",
+        "english": "charity",
+        "japanese": "慈善行為"
+    },
+    {
+        "": "1077",
+        "english": "citizen",
+        "japanese": "国民"
+    },
+    {
+        "": "1078",
+        "english": "duty",
+        "japanese": "義務"
+    },
+    {
+        "": "1079",
+        "english": "law",
+        "japanese": "法律"
+    },
+    {
+        "": "1080",
+        "english": "judge",
+        "japanese": "裁判官"
+    },
+    {
+        "": "1081",
+        "english": "court",
+        "japanese": "法廷"
+    },
+    {
+        "": "1082",
+        "english": "guard",
+        "japanese": "警戒"
+    },
+    {
+        "": "1083",
+        "english": "arrest",
+        "japanese": "逮捕する"
+    },
+    {
+        "": "1084",
+        "english": "punish",
+        "japanese": "罰する"
+    },
+    {
+        "": "1085",
+        "english": "crime",
+        "japanese": "犯罪"
+    },
+    {
+        "": "1086",
+        "english": "murder",
+        "japanese": "殺人"
+    },
+    {
+        "": "1087",
+        "english": "shoot",
+        "japanese": "撃つ"
+    },
+    {
+        "": "1088",
+        "english": "steal",
+        "japanese": "盗む"
+    },
+    {
+        "": "1089",
+        "english": "rob",
+        "japanese": "襲って奪う"
+    },
+    {
+        "": "1090",
+        "english": "thief",
+        "japanese": "泥棒"
+    },
+    {
+        "": "1091",
+        "english": "victim",
+        "japanese": "犠牲者"
+    },
+    {
+        "": "1092",
+        "english": "drug",
+        "japanese": "薬物"
+    },
+    {
+        "": "1093",
+        "english": "poverty",
+        "japanese": "貧乏"
+    },
+    {
+        "": "1094",
+        "english": "government",
+        "japanese": "政府"
+    },
+    {
+        "": "1095",
+        "english": "policy",
+        "japanese": "政策"
+    },
+    {
+        "": "1096",
+        "english": "nation",
+        "japanese": "国家"
+    },
+    {
+        "": "1097",
+        "english": "capital",
+        "japanese": "首都"
+    },
+    {
+        "": "1098",
+        "english": "international",
+        "japanese": "国際的な"
+    },
+    {
+        "": "1099",
+        "english": "global",
+        "japanese": "全世界の"
+    },
+    {
+        "": "1100",
+        "english": "election",
+        "japanese": "選挙"
+    },
+    {
+        "": "1101",
+        "english": "vote",
+        "japanese": "投票する"
+    },
+    {
+        "": "1102",
+        "english": "president",
+        "japanese": "大統領"
+    },
+    {
+        "": "1103",
+        "english": "liberty",
+        "japanese": "自由"
+    },
+    {
+        "": "1104",
+        "english": "fight",
+        "japanese": "戦う"
+    },
+    {
+        "": "1105",
+        "english": "war",
+        "japanese": "戦争"
+    },
+    {
+        "": "1106",
+        "english": "military",
+        "japanese": "軍"
+    },
+    {
+        "": "1107",
+        "english": "army",
+        "japanese": "軍隊"
+    },
+    {
+        "": "1108",
+        "english": "soldier",
+        "japanese": "兵士"
+    },
+    {
+        "": "1109",
+        "english": "weapon",
+        "japanese": "武器"
+    },
+    {
+        "": "1110",
+        "english": "bomb",
+        "japanese": "爆弾"
+    },
+    {
+        "": "1111",
+        "english": "break out",
+        "japanese": "突然起こる"
+    },
+    {
+        "": "1112",
+        "english": "come across",
+        "japanese": "偶然出会う"
+    },
+    {
+        "": "1113",
+        "english": "come out",
+        "japanese": "発売される"
+    },
+    {
+        "": "1114",
+        "english": "come up with",
+        "japanese": "思いつく"
+    },
+    {
+        "": "1115",
+        "english": "count on",
+        "japanese": "頼る"
+    },
+    {
+        "": "1116",
+        "english": "cut down",
+        "japanese": "減らす"
+    },
+    {
+        "": "1117",
+        "english": "die out",
+        "japanese": "なくなる"
+    },
+    {
+        "": "1118",
+        "english": "drop in (on～)",
+        "japanese": "ちょっと訪れる"
+    },
+    {
+        "": "1119",
+        "english": "feel free to",
+        "japanese": "自由に～する"
+    },
+    {
+        "": "1120",
+        "english": "get along (with)",
+        "japanese": "仲良くやっている"
+    },
+    {
+        "": "1121",
+        "english": "get out of",
+        "japanese": "～から逃れる"
+    },
+    {
+        "": "1122",
+        "english": "get over",
+        "japanese": "回復する"
+    },
+    {
+        "": "1123",
+        "english": "get through",
+        "japanese": "切り抜ける"
+    },
+    {
+        "": "1124",
+        "english": "give away",
+        "japanese": "譲歩する"
+    },
+    {
+        "": "1125",
+        "english": "go along with",
+        "japanese": "賛成する"
+    },
+    {
+        "": "1126",
+        "english": "head for",
+        "japanese": "～に向かう"
+    },
+    {
+        "": "1127",
+        "english": "keep ～in mind",
+        "japanese": "心に留めておく"
+    },
+    {
+        "": "1128",
+        "english": "keep in touch with",
+        "japanese": "連絡を取り続ける"
+    },
+    {
+        "": "1129",
+        "english": "learn to",
+        "japanese": "～できるようになる"
+    },
+    {
+        "": "1130",
+        "english": "look back",
+        "japanese": "回想する"
+    },
+    {
+        "": "1131",
+        "english": "look into",
+        "japanese": "調査する"
+    },
+    {
+        "": "1132",
+        "english": "look over",
+        "japanese": "ざっと調べる"
+    },
+    {
+        "": "1133",
+        "english": "look up to",
+        "japanese": "尊敬する"
+    },
+    {
+        "": "1134",
+        "english": "make a difference",
+        "japanese": "影響がある"
+    },
+    {
+        "": "1135",
+        "english": "make a living",
+        "japanese": "生計を立てる"
+    },
+    {
+        "": "1136",
+        "english": "make up",
+        "japanese": "構成する"
+    },
+    {
+        "": "1137",
+        "english": "pass away",
+        "japanese": "亡くなる"
+    },
+    {
+        "": "1138",
+        "english": "point out",
+        "japanese": "指摘する"
+    },
+    {
+        "": "1139",
+        "english": "put off",
+        "japanese": "延期する"
+    },
+    {
+        "": "1140",
+        "english": "put together",
+        "japanese": "組み立てる"
+    },
+    {
+        "": "1141",
+        "english": "put up with",
+        "japanese": "我慢する"
+    },
+    {
+        "": "1142",
+        "english": "run after",
+        "japanese": "追いかける"
+    },
+    {
+        "": "1143",
+        "english": "run away",
+        "japanese": "逃げる"
+    },
+    {
+        "": "1144",
+        "english": "run out of",
+        "japanese": "使い果たす"
+    },
+    {
+        "": "1145",
+        "english": "stand for",
+        "japanese": "意味する"
+    },
+    {
+        "": "1146",
+        "english": "stand out",
+        "japanese": "ずば抜けている"
+    },
+    {
+        "": "1147",
+        "english": "tale A for B",
+        "japanese": "AをBだと思う"
+    },
+    {
+        "": "1148",
+        "english": "take place",
+        "japanese": "起こる"
+    },
+    {
+        "": "1149",
+        "english": "take up",
+        "japanese": "始める"
+    },
+    {
+        "": "1150",
+        "english": "work on",
+        "japanese": "取り組む"
+    },
+    {
+        "": "1151",
+        "english": "all at once",
+        "japanese": "突然"
+    },
+    {
+        "": "1152",
+        "english": "all the way",
+        "japanese": "はるばる"
+    },
+    {
+        "": "1153",
+        "english": "along with",
+        "japanese": "～と一緒に"
+    },
+    {
+        "": "1154",
+        "english": "at least",
+        "japanese": "少なくとも"
+    },
+    {
+        "": "1155",
+        "english": "at most",
+        "japanese": "多くても"
+    },
+    {
+        "": "1156",
+        "english": "by way of",
+        "japanese": "～を通って"
+    },
+    {
+        "": "1157",
+        "english": "for some time",
+        "japanese": "かなり長い間"
+    },
+    {
+        "": "1158",
+        "english": "face to face",
+        "japanese": "面と向かって"
+    },
+    {
+        "": "1159",
+        "english": "first of all",
+        "japanese": "まず第一に"
+    },
+    {
+        "": "1160",
+        "english": "in advance",
+        "japanese": "あらかじめ"
+    },
+    {
+        "": "1161",
+        "english": "in all",
+        "japanese": "全部で"
+    },
+    {
+        "": "1162",
+        "english": "in place of",
+        "japanese": "～の代わりに"
+    },
+    {
+        "": "1163",
+        "english": "in return for",
+        "japanese": "お返しに"
+    },
+    {
+        "": "1164",
+        "english": "in the long run",
+        "japanese": "長い目で見れば"
+    },
+    {
+        "": "1165",
+        "english": "in time",
+        "japanese": "遅れずに"
+    },
+    {
+        "": "1166",
+        "english": "on sale",
+        "japanese": "販売されて"
+    },
+    {
+        "": "1167",
+        "english": "on time",
+        "japanese": "時間通りに"
+    },
+    {
+        "": "1168",
+        "english": "one by one",
+        "japanese": "１つずつ"
+    },
+    {
+        "": "1169",
+        "english": "out of the question",
+        "japanese": "論外で"
+    },
+    {
+        "": "1170",
+        "english": "side by side",
+        "japanese": "並んで"
+    },
+    {
+        "": "1171",
+        "english": "become",
+        "japanese": "～になる"
+    },
+    {
+        "": "1172",
+        "english": "turn",
+        "japanese": "変わる"
+    },
+    {
+        "": "1173",
+        "english": "remain",
+        "japanese": "～のままである"
+    },
+    {
+        "": "1174",
+        "english": "smell",
+        "japanese": "においがする"
+    },
+    {
+        "": "1175",
+        "english": "taste",
+        "japanese": "味がする"
+    },
+    {
+        "": "1176",
+        "english": "take",
+        "japanese": "連れていく"
+    },
+    {
+        "": "1177",
+        "english": "put",
+        "japanese": "置く"
+    },
+    {
+        "": "1178",
+        "english": "set",
+        "japanese": "置く"
+    },
+    {
+        "": "1179",
+        "english": "spread",
+        "japanese": "広げる"
+    },
+    {
+        "": "1180",
+        "english": "fold",
+        "japanese": "折る"
+    },
+    {
+        "": "1181",
+        "english": "show",
+        "japanese": "見せる"
+    },
+    {
+        "": "1182",
+        "english": "give",
+        "japanese": "与える"
+    },
+    {
+        "": "1183",
+        "english": "choose",
+        "japanese": "運ぶ"
+    },
+    {
+        "": "1184",
+        "english": "pay",
+        "japanese": "支払う"
+    },
+    {
+        "": "1185",
+        "english": "leave",
+        "japanese": "残しておく"
+    },
+    {
+        "": "1186",
+        "english": "offer",
+        "japanese": "申し出る"
+    },
+    {
+        "": "1187",
+        "english": "bring back",
+        "japanese": "持ってくる"
+    },
+    {
+        "": "1188",
+        "english": "send",
+        "japanese": "送る"
+    },
+    {
+        "": "1189",
+        "english": "pass",
+        "japanese": "手渡す"
+    },
+    {
+        "": "1190",
+        "english": "sell",
+        "japanese": "売る"
+    },
+    {
+        "": "1191",
+        "english": "draw",
+        "japanese": "描く　引く"
+    },
+    {
+        "": "1192",
+        "english": "owe",
+        "japanese": "お金を借りている"
+    },
+    {
+        "": "1193",
+        "english": "lend",
+        "japanese": "貸す"
+    },
+    {
+        "": "1194",
+        "english": "envy",
+        "japanese": "うらやむ"
+    },
+    {
+        "": "1195",
+        "english": "make",
+        "japanese": "～にする"
+    },
+    {
+        "": "1196",
+        "english": "find",
+        "japanese": "見つける"
+    },
+    {
+        "": "1197",
+        "english": "keep",
+        "japanese": "保つ"
+    },
+    {
+        "": "1198",
+        "english": "call",
+        "japanese": "呼ぶ"
+    },
+    {
+        "": "1199",
+        "english": "know",
+        "japanese": "知っている"
+    },
+    {
+        "": "1200",
+        "english": "understand",
+        "japanese": "理解する"
+    },
+    {
+        "": "1201",
+        "english": "believe",
+        "japanese": "信じる"
+    },
+    {
+        "": "1202",
+        "english": "notice",
+        "japanese": "気づく"
+    },
+    {
+        "": "1203",
+        "english": "exist",
+        "japanese": "存在する"
+    },
+    {
+        "": "1204",
+        "english": "discuss",
+        "japanese": "議論する"
+    },
+    {
+        "": "1205",
+        "english": "agree",
+        "japanese": "意見が一致する"
+    },
+    {
+        "": "1206",
+        "english": "disagree",
+        "japanese": "意見が異なる"
+    },
+    {
+        "": "1207",
+        "english": "raise",
+        "japanese": "上げる"
+    },
+    {
+        "": "1208",
+        "english": "rise",
+        "japanese": "上がる"
+    },
+    {
+        "": "1209",
+        "english": "approach",
+        "japanese": "近づく"
+    },
+    {
+        "": "1210",
+        "english": "complain",
+        "japanese": "不平を言う"
+    },
+    {
+        "": "1211",
+        "english": "lie",
+        "japanese": "横たわる"
+    },
+    {
+        "": "1212",
+        "english": "lay",
+        "japanese": "横たえる"
+    },
+    {
+        "": "1213",
+        "english": "marry",
+        "japanese": "結婚する"
+    },
+    {
+        "": "1214",
+        "english": "order",
+        "japanese": "命じる"
+    },
+    {
+        "": "1215",
+        "english": "demand",
+        "japanese": "要求する"
+    },
+    {
+        "": "1216",
+        "english": "request",
+        "japanese": "頼む"
+    },
+    {
+        "": "1217",
+        "english": "seem",
+        "japanese": "～のように思える"
+    },
+    {
+        "": "1218",
+        "english": "appear",
+        "japanese": "～のように見える"
+    },
+    {
+        "": "1219",
+        "english": "prove",
+        "japanese": "判明する"
+    },
+    {
+        "": "1220",
+        "english": "tell",
+        "japanese": "伝える"
+    },
+    {
+        "": "1221",
+        "english": "expect",
+        "japanese": "予期する"
+    },
+    {
+        "": "1222",
+        "english": "warn",
+        "japanese": "警告する"
+    },
+    {
+        "": "1223",
+        "english": "forbid",
+        "japanese": "禁ずる"
+    },
+    {
+        "": "1224",
+        "english": "feel free to",
+        "japanese": "感じる"
+    },
+    {
+        "": "1225",
+        "english": "hear",
+        "japanese": "聞こえる"
+    },
+    {
+        "": "1226",
+        "english": "watch",
+        "japanese": "見る"
+    },
+    {
+        "": "1227",
+        "english": "decide",
+        "japanese": "決める"
+    },
+    {
+        "": "1228",
+        "english": "manage",
+        "japanese": "何とかやりとげる"
+    },
+    {
+        "": "1229",
+        "english": "promise",
+        "japanese": "約束する"
+    },
+    {
+        "": "1230",
+        "english": "afford",
+        "japanese": "余裕がある"
+    },
+    {
+        "": "1231",
+        "english": "pretend",
+        "japanese": "ふりをする"
+    },
+    {
+        "": "1232",
+        "english": "refuse",
+        "japanese": "断る"
+    },
+    {
+        "": "1233",
+        "english": "consider",
+        "japanese": "よく考える"
+    },
+    {
+        "": "1234",
+        "english": "stop",
+        "japanese": "やめる"
+    },
+    {
+        "": "1235",
+        "english": "finish",
+        "japanese": "終える"
+    },
+    {
+        "": "1236",
+        "english": "avoid",
+        "japanese": "避ける"
+    },
+    {
+        "": "1237",
+        "english": "imagine",
+        "japanese": "想像する"
+    },
+    {
+        "": "1238",
+        "english": "escape",
+        "japanese": "逃れる"
+    },
+    {
+        "": "1239",
+        "english": "quit",
+        "japanese": "やめる"
+    },
+    {
+        "": "1240",
+        "english": "dislike",
+        "japanese": "嫌う"
+    },
+    {
+        "": "1241",
+        "english": "start",
+        "japanese": "始める"
+    },
+    {
+        "": "1242",
+        "english": "begin",
+        "japanese": "始める"
+    },
+    {
+        "": "1243",
+        "english": "continue",
+        "japanese": "続ける"
+    },
+    {
+        "": "1244",
+        "english": "prefer",
+        "japanese": "好む"
+    },
+    {
+        "": "1245",
+        "english": "hate",
+        "japanese": "ひどく嫌う"
+    },
+    {
+        "": "1246",
+        "english": "try",
+        "japanese": "試みる"
+    },
+    {
+        "": "1247",
+        "english": "remember",
+        "japanese": "覚えている"
+    },
+    {
+        "": "1248",
+        "english": "forget",
+        "japanese": "忘れる"
+    },
+    {
+        "": "1249",
+        "english": "regret",
+        "japanese": "後悔する"
+    },
+    {
+        "": "1250",
+        "english": "air",
+        "japanese": "空気"
+    },
+    {
+        "": "1251",
+        "english": "cloth",
+        "japanese": "布"
+    },
+    {
+        "": "1252",
+        "english": "paper",
+        "japanese": "紙"
+    },
+    {
+        "": "1253",
+        "english": "iron",
+        "japanese": "鉄"
+    },
+    {
+        "": "1254",
+        "english": "audience",
+        "japanese": "聴衆"
+    },
+    {
+        "": "1255",
+        "english": "police",
+        "japanese": "警察官"
+    },
+    {
+        "": "1256",
+        "english": "staff",
+        "japanese": "スタッフ"
+    },
+    {
+        "": "1257",
+        "english": "furniture",
+        "japanese": "家具"
+    },
+    {
+        "": "1258",
+        "english": "stuff",
+        "japanese": "物"
+    },
+    {
+        "": "1259",
+        "english": "baggage",
+        "japanese": "手荷物"
+    },
+    {
+        "": "1260",
+        "english": "information",
+        "japanese": "情報"
+    },
+    {
+        "": "1261",
+        "english": "ability",
+        "japanese": "能力"
+    },
+    {
+        "": "1262",
+        "english": "advice",
+        "japanese": "助言"
+    },
+    {
+        "": "1263",
+        "english": "beauty",
+        "japanese": "美術"
+    },
+    {
+        "": "1264",
+        "english": "death",
+        "japanese": "死"
+    },
+    {
+        "": "1265",
+        "english": "freedom",
+        "japanese": "自由"
+    },
+    {
+        "": "1266",
+        "english": "peace",
+        "japanese": "平和"
+    },
+    {
+        "": "1267",
+        "english": "customer",
+        "japanese": "客"
+    },
+    {
+        "": "1268",
+        "english": "guest",
+        "japanese": "客"
+    },
+    {
+        "": "1269",
+        "english": "habit",
+        "japanese": "習慣"
+    },
+    {
+        "": "1270",
+        "english": "custom",
+        "japanese": "慣習"
+    },
+    {
+        "": "1271",
+        "english": "fee",
+        "japanese": "料金"
+    },
+    {
+        "": "1272",
+        "english": "fare",
+        "japanese": "運賃"
+    },
+    {
+        "": "1273",
+        "english": "appointment",
+        "japanese": "約束"
+    },
+    {
+        "": "1274",
+        "english": "idea",
+        "japanese": "考え"
+    },
+    {
+        "": "1275",
+        "english": "fact",
+        "japanese": "事実"
+    },
+    {
+        "": "1276",
+        "english": "feeling",
+        "japanese": "気持ち"
+    },
+    {
+        "": "1277",
+        "english": "evidence",
+        "japanese": "証拠"
+    },
+    {
+        "": "1278",
+        "english": "other",
+        "japanese": "もう一方"
+    },
+    {
+        "": "1279",
+        "english": "another",
+        "japanese": "別の物"
+    },
+    {
+        "": "1280",
+        "english": "each",
+        "japanese": "それぞれ"
+    },
+    {
+        "": "1281",
+        "english": "both",
+        "japanese": "両方"
+    },
+    {
+        "": "1282",
+        "english": "either",
+        "japanese": "どちらか"
+    },
+    {
+        "": "1283",
+        "english": "neither",
+        "japanese": "どちらも～ない"
+    },
+    {
+        "": "1284",
+        "english": "none",
+        "japanese": "どれも～ない"
+    },
+    {
+        "": "1285",
+        "english": "something",
+        "japanese": "何か"
+    },
+    {
+        "": "1286",
+        "english": "anything",
+        "japanese": "何も～ない"
+    },
+    {
+        "": "1287",
+        "english": "nothing",
+        "japanese": "何も～ない"
+    },
+    {
+        "": "1288",
+        "english": "everything",
+        "japanese": "すべての物"
+    },
+    {
+        "": "1289",
+        "english": "everyone",
+        "japanese": "みんな"
+    },
+    {
+        "": "1290",
+        "english": "someone",
+        "japanese": "誰か"
+    },
+    {
+        "": "1291",
+        "english": "anyone",
+        "japanese": "誰か"
+    },
+    {
+        "": "1292",
+        "english": "nobody",
+        "japanese": "誰も～ない"
+    },
+    {
+        "": "1293",
+        "english": "main",
+        "japanese": "主な"
+    },
+    {
+        "": "1294",
+        "english": "daily",
+        "japanese": "毎日の"
+    },
+    {
+        "": "1295",
+        "english": "alone",
+        "japanese": "ただ１人で"
+    },
+    {
+        "": "1296",
+        "english": "aware",
+        "japanese": "気づいて"
+    },
+    {
+        "": "1297",
+        "english": "awake",
+        "japanese": "目が覚めて"
+    },
+    {
+        "": "1298",
+        "english": "asleep",
+        "japanese": "眠って"
+    },
+    {
+        "": "1299",
+        "english": "alive",
+        "japanese": "生きて"
+    },
+    {
+        "": "1300",
+        "english": "alike",
+        "japanese": "似ている"
+    },
+    {
+        "": "1301",
+        "english": "right",
+        "japanese": "右の"
+    },
+    {
+        "": "1302",
+        "english": "present",
+        "japanese": "現在の　出席して"
+    },
+    {
+        "": "1303",
+        "english": "certain",
+        "japanese": "ある　確信して"
+    },
+    {
+        "": "1304",
+        "english": "interested",
+        "japanese": "興味を持って"
+    },
+    {
+        "": "1305",
+        "english": "surprised",
+        "japanese": "驚いて"
+    },
+    {
+        "": "1306",
+        "english": "tired",
+        "japanese": "うんざりして"
+    },
+    {
+        "": "1307",
+        "english": "pleased",
+        "japanese": "喜んで"
+    },
+    {
+        "": "1308",
+        "english": "satisfied",
+        "japanese": "満足して"
+    },
+    {
+        "": "1309",
+        "english": "bored",
+        "japanese": "退屈して"
+    },
+    {
+        "": "1310",
+        "english": "excited",
+        "japanese": "わくわくして"
+    },
+    {
+        "": "1311",
+        "english": "confused",
+        "japanese": "困惑して"
+    },
+    {
+        "": "1312",
+        "english": "scared",
+        "japanese": "怖がって"
+    },
+    {
+        "": "1313",
+        "english": "able",
+        "japanese": "できる"
+    },
+    {
+        "": "1314",
+        "english": "likely",
+        "japanese": "ありそうな"
+    },
+    {
+        "": "1315",
+        "english": "sure",
+        "japanese": "確信して"
+    },
+    {
+        "": "1316",
+        "english": "ready",
+        "japanese": "準備のできた"
+    },
+    {
+        "": "1317",
+        "english": "eager",
+        "japanese": "熱望して"
+    },
+    {
+        "": "1318",
+        "english": "polite",
+        "japanese": "礼儀正しい"
+    },
+    {
+        "": "1319",
+        "english": "clever",
+        "japanese": "利口な"
+    },
+    {
+        "": "1320",
+        "english": "brave",
+        "japanese": "勇敢な"
+    },
+    {
+        "": "1321",
+        "english": "wise",
+        "japanese": "賢明な"
+    },
+    {
+        "": "1322",
+        "english": "rude",
+        "japanese": "失礼な"
+    },
+    {
+        "": "1323",
+        "english": "silly",
+        "japanese": "愚かな"
+    },
+    {
+        "": "1324",
+        "english": "foolish",
+        "japanese": "愚かな"
+    },
+    {
+        "": "1325",
+        "english": "stupid",
+        "japanese": "愚かな"
+    },
+    {
+        "": "1326",
+        "english": "careless",
+        "japanese": "不注意な"
+    },
+    {
+        "": "1327",
+        "english": "important",
+        "japanese": "重要な"
+    },
+    {
+        "": "1328",
+        "english": "necessary",
+        "japanese": "必要な"
+    },
+    {
+        "": "1329",
+        "english": "proper",
+        "japanese": "正当な"
+    },
+    {
+        "": "1330",
+        "english": "stranger",
+        "japanese": "奇妙な"
+    },
+    {
+        "": "1331",
+        "english": "wrong",
+        "japanese": "間違った"
+    },
+    {
+        "": "1332",
+        "english": "few",
+        "japanese": "ほとんどない"
+    },
+    {
+        "": "1333",
+        "english": "little",
+        "japanese": "ほとんどない"
+    },
+    {
+        "": "1334",
+        "english": "late",
+        "japanese": "遅れtあ"
+    },
+    {
+        "": "1335",
+        "english": "far",
+        "japanese": "遠くに"
+    },
+    {
+        "": "1336",
+        "english": "hard",
+        "japanese": "難しい　賢明に"
+    },
+    {
+        "": "1337",
+        "english": "fast",
+        "japanese": "速い"
+    },
+    {
+        "": "1338",
+        "english": "deep",
+        "japanese": "深い"
+    },
+    {
+        "": "1339",
+        "english": "direct",
+        "japanese": "直接の"
+    },
+    {
+        "": "1340",
+        "english": "well",
+        "japanese": "健康で"
+    },
+    {
+        "": "1341",
+        "english": "wide",
+        "japanese": "広い"
+    },
+    {
+        "": "1342",
+        "english": "pretty",
+        "japanese": "かわいい　かなり"
+    },
+    {
+        "": "1343",
+        "english": "sharp",
+        "japanese": "鋭い　ちょうど"
+    },
+    {
+        "": "1344",
+        "english": "just",
+        "japanese": "ちょうど"
+    },
+    {
+        "": "1345",
+        "english": "already",
+        "japanese": "すでに"
+    },
+    {
+        "": "1346",
+        "english": "recently",
+        "japanese": "最近"
+    },
+    {
+        "": "1347",
+        "english": "lately",
+        "japanese": "最近"
+    },
+    {
+        "": "1348",
+        "english": "yet",
+        "japanese": "まだ（～ない）"
+    },
+    {
+        "": "1349",
+        "english": "ever",
+        "japanese": "これまでに"
+    },
+    {
+        "": "1350",
+        "english": "twice",
+        "japanese": "２度"
+    },
+    {
+        "": "1351",
+        "english": "only",
+        "japanese": "だけ"
+    },
+    {
+        "": "1352",
+        "english": "always",
+        "japanese": "いつも"
+    },
+    {
+        "": "1353",
+        "english": "sometimes",
+        "japanese": "時々"
+    },
+    {
+        "": "1354",
+        "english": "usually",
+        "japanese": "たいてい"
+    },
+    {
+        "": "1355",
+        "english": "nearly",
+        "japanese": "ほとんど"
+    },
+    {
+        "": "1356",
+        "english": "hardly",
+        "japanese": "ほとんど～ない"
+    },
+    {
+        "": "1357",
+        "english": "while",
+        "japanese": "～している間"
+    },
+    {
+        "": "1358",
+        "english": "unless",
+        "japanese": "～でない限り"
+    },
+    {
+        "": "1359",
+        "english": "nor",
+        "japanese": "～もまた…ない"
+    },
+    {
+        "": "1360",
+        "english": "whatever",
+        "japanese": "何が～しようとも"
+    },
+    {
+        "": "1361",
+        "english": "whichever",
+        "japanese": "どちらが～しようとも"
+    },
+    {
+        "": "1362",
+        "english": "whenever",
+        "japanese": "～するときはいつでも"
+    },
+    {
+        "": "1363",
+        "english": "wherever",
+        "japanese": "～するところならどこでも"
+    },
+    {
+        "": "1364",
+        "english": "cause",
+        "japanese": "引き起こす"
+    },
+    {
+        "": "1365",
+        "english": "allow",
+        "japanese": "可能にする"
+    },
+    {
+        "": "1366",
+        "english": "enable",
+        "japanese": "可能にする"
+    },
+    {
+        "": "1367",
+        "english": "prevent",
+        "japanese": "妨げる"
+    },
+    {
+        "": "1368",
+        "english": "force",
+        "japanese": "強いる"
+    },
+    {
+        "": "1369",
+        "english": "cost",
+        "japanese": "かかる"
+    },
+    {
+        "": "1370",
+        "english": "remind",
+        "japanese": "思い出させる"
+    },
+    {
+        "": "1371",
+        "english": "believe in",
+        "japanese": "～の存在を信じる"
+    },
+    {
+        "": "1372",
+        "english": "bring out",
+        "japanese": "～を引き出す"
+    },
+    {
+        "": "1373",
+        "english": "bring up",
+        "japanese": "～を育てる"
+    },
+    {
+        "": "1374",
+        "english": "call for",
+        "japanese": "～を必要とする"
+    },
+    {
+        "": "1375",
+        "english": "call off",
+        "japanese": "～を中止する"
+    },
+    {
+        "": "1376",
+        "english": "decide on",
+        "japanese": "～に決める"
+    },
+    {
+        "": "1377",
+        "english": "feel like ～ing",
+        "japanese": "～したい気がする"
+    },
+    {
+        "": "1378",
+        "english": "give up ～ing",
+        "japanese": "～することをやめる"
+    },
+    {
+        "": "1379",
+        "english": "go on ～ing",
+        "japanese": "～し続ける"
+    },
+    {
+        "": "1380",
+        "english": "have nothing to do with",
+        "japanese": "～と何も関係がない"
+    },
+    {
+        "": "1381",
+        "english": "lie in [with]",
+        "japanese": "～にある"
+    },
+    {
+        "": "1382",
+        "english": "make it",
+        "japanese": "うまくいく"
+    },
+    {
+        "": "1383",
+        "english": "make oneself understood",
+        "japanese": "自分の意志が通じる"
+    },
+    {
+        "": "1384",
+        "english": "pass on",
+        "japanese": "伝える"
+    },
+    {
+        "": "1385",
+        "english": "put away",
+        "japanese": "片付ける"
+    },
+    {
+        "": "1386",
+        "english": "put on",
+        "japanese": "身につける"
+    },
+    {
+        "": "1387",
+        "english": "show up",
+        "japanese": "現れる"
+    },
+    {
+        "": "1388",
+        "english": "take a walk",
+        "japanese": "散歩する"
+    },
+    {
+        "": "1389",
+        "english": "take time",
+        "japanese": "時間がかかる"
+    },
+    {
+        "": "1390",
+        "english": "tell A from B",
+        "japanese": "AをBと区別する"
+    },
+    {
+        "": "1391",
+        "english": "throw away",
+        "japanese": "捨てる"
+    },
+    {
+        "": "1392",
+        "english": "try on",
+        "japanese": "試着する"
+    },
+    {
+        "": "1393",
+        "english": "turn A into B",
+        "japanese": "AをBに変える"
+    },
+    {
+        "": "1394",
+        "english": "turn off",
+        "japanese": "切る、消す"
+    },
+    {
+        "": "1395",
+        "english": "turn on",
+        "japanese": "～をつける"
+    },
+    {
+        "": "1396",
+        "english": "turn out to be",
+        "japanese": "～であることがわかる"
+    },
+    {
+        "": "1397",
+        "english": "turn over",
+        "japanese": "ひっくりかえす"
+    },
+    {
+        "": "1398",
+        "english": "be known for",
+        "japanese": "～で有名だ"
+    },
+    {
+        "": "1399",
+        "english": "be enable to do",
+        "japanese": "～することができない"
+    },
+    {
+        "": "1400",
+        "english": "be used to ～ing",
+        "japanese": "～になれている"
+    },
+    {
+        "": "1401",
+        "english": "be willing to do",
+        "japanese": "～してもかまわない"
+    },
+    {
+        "": "1402",
+        "english": "as ～ as ever",
+        "japanese": "相変わらず～で"
+    },
+    {
+        "": "1403",
+        "english": "as usual",
+        "japanese": "いつものように"
+    },
+    {
+        "": "1404",
+        "english": "as well",
+        "japanese": "～もまた"
+    },
+    {
+        "": "1405",
+        "english": "at a loss",
+        "japanese": "途方に暮れて"
+    },
+    {
+        "": "1406",
+        "english": "at present",
+        "japanese": "現在は"
+    },
+    {
+        "": "1407",
+        "english": "at the age of",
+        "japanese": "～歳で"
+    },
+    {
+        "": "1408",
+        "english": "before long",
+        "japanese": "間もなく"
+    },
+    {
+        "": "1409",
+        "english": "for a while",
+        "japanese": "しばらくの間"
+    },
+    {
+        "": "1410",
+        "english": "for sure",
+        "japanese": "確かに"
+    },
+    {
+        "": "1411",
+        "english": "for the sake of",
+        "japanese": "～のために"
+    },
+    {
+        "": "1412",
+        "english": "in a way",
+        "japanese": "ある意味では"
+    },
+    {
+        "": "1413",
+        "english": "in danger of",
+        "japanese": "～の恐れがあって"
+    },
+    {
+        "": "1414",
+        "english": "in fact",
+        "japanese": "実際に"
+    },
+    {
+        "": "1415",
+        "english": "in turn",
+        "japanese": "順番に"
+    },
+    {
+        "": "1416",
+        "english": "little by little",
+        "japanese": "少しずつ"
+    },
+    {
+        "": "1417",
+        "english": "no doubt",
+        "japanese": "きっと"
+    },
+    {
+        "": "1418",
+        "english": "one after another",
+        "japanese": "次々と"
+    },
+    {
+        "": "1419",
+        "english": "right away",
+        "japanese": "直ちに"
+    },
+    {
+        "": "1420",
+        "english": "so far",
+        "japanese": "これまでのところ"
+    },
+    {
+        "": "1421",
+        "english": "the other day",
+        "japanese": "先日"
+    },
+    {
+        "": "1422",
+        "english": "to ～'s surprise",
+        "japanese": "～が驚いたことに"
+    },
+    {
+        "": "1423",
+        "english": "as far as",
+        "japanese": "～する限り"
+    },
+    {
+        "": "1424",
+        "english": "as many as",
+        "japanese": "～ほども多く"
+    },
+    {
+        "": "1425",
+        "english": "both A and B",
+        "japanese": "AもBも"
+    },
+    {
+        "": "1426",
+        "english": "either A or B",
+        "japanese": "AかBのどちらか"
+    },
+    {
+        "": "1427",
+        "english": "each other",
+        "japanese": "お互い"
+    },
+    {
+        "": "1428",
+        "english": "every other ～",
+        "japanese": "１つおきの"
+    },
+    {
+        "": "1429",
+        "english": "something is wrong with",
+        "japanese": "～はどこか調子が悪い"
+    },
+    {
+        "": "1430",
+        "english": "what is ～ like?",
+        "japanese": "～はどのようなものですか"
+    },
+    {
+        "": "1431",
+        "english": "spend",
+        "japanese": "費やす"
+    },
+    {
+        "": "1432",
+        "english": "increase",
+        "japanese": "増える"
+    },
+    {
+        "": "1433",
+        "english": "decrease",
+        "japanese": "減る"
+    },
+    {
+        "": "1434",
+        "english": "improve",
+        "japanese": "改善する"
+    },
+    {
+        "": "1435",
+        "english": "provide",
+        "japanese": "提供する"
+    },
+    {
+        "": "1436",
+        "english": "include",
+        "japanese": "含む"
+    },
+    {
+        "": "1437",
+        "english": "develop",
+        "japanese": "発達させる"
+    },
+    {
+        "": "1438",
+        "english": "receive",
+        "japanese": "受け取る"
+    },
+    {
+        "": "1439",
+        "english": "explain",
+        "japanese": "説明する"
+    },
+    {
+        "": "1440",
+        "english": "lead",
+        "japanese": "至る"
+    },
+    {
+        "": "1441",
+        "english": "perform",
+        "japanese": "うまくいく"
+    },
+    {
+        "": "1442",
+        "english": "realize",
+        "japanese": "気づく"
+    },
+    {
+        "": "1443",
+        "english": "produce",
+        "japanese": "引き起こす"
+    },
+    {
+        "": "1444",
+        "english": "participate",
+        "japanese": "参加する"
+    },
+    {
+        "": "1445",
+        "english": "suggest",
+        "japanese": "示す"
+    },
+    {
+        "": "1446",
+        "english": "encourage",
+        "japanese": "促進する"
+    },
+    {
+        "": "1447",
+        "english": "apply",
+        "japanese": "当てはまる"
+    },
+    {
+        "": "1448",
+        "english": "affect",
+        "japanese": "影響する"
+    },
+    {
+        "": "1449",
+        "english": "recognize",
+        "japanese": "識別する"
+    },
+    {
+        "": "1450",
+        "english": "require",
+        "japanese": "要求する"
+    },
+    {
+        "": "1451",
+        "english": "maintain",
+        "japanese": "維持する"
+    },
+    {
+        "": "1452",
+        "english": "tend",
+        "japanese": "～する傾向がある"
+    },
+    {
+        "": "1453",
+        "english": "contain",
+        "japanese": "含む"
+    },
+    {
+        "": "1454",
+        "english": "represent",
+        "japanese": "表す"
+    },
+    {
+        "": "1455",
+        "english": "reach",
+        "japanese": "届く"
+    },
+    {
+        "": "1456",
+        "english": "mention",
+        "japanese": "話に出す"
+    },
+    {
+        "": "1457",
+        "english": "focus",
+        "japanese": "集中する"
+    },
+    {
+        "": "1458",
+        "english": "rent",
+        "japanese": "借りる"
+    },
+    {
+        "": "1459",
+        "english": "guess",
+        "japanese": "推測する"
+    },
+    {
+        "": "1460",
+        "english": "add",
+        "japanese": "加える"
+    },
+    {
+        "": "1461",
+        "english": "delay",
+        "japanese": "遅らせる"
+    },
+    {
+        "": "1462",
+        "english": "select",
+        "japanese": "選び出す"
+    },
+    {
+        "": "1463",
+        "english": "system",
+        "japanese": "方法"
+    },
+    {
+        "": "1464",
+        "english": "experience",
+        "japanese": "経験"
+    },
+    {
+        "": "1465",
+        "english": "activity",
+        "japanese": "活動的な"
+    },
+    {
+        "": "1466",
+        "english": "program",
+        "japanese": "計画"
+    },
+    {
+        "": "1467",
+        "english": "care",
+        "japanese": "注意"
+    },
+    {
+        "": "1468",
+        "english": "situation",
+        "japanese": "状況"
+    },
+    {
+        "": "1469",
+        "english": "research",
+        "japanese": "研究"
+    },
+    {
+        "": "1470",
+        "english": "passage",
+        "japanese": "一節"
+    },
+    {
+        "": "1471",
+        "english": "factor",
+        "japanese": "要因"
+    },
+    {
+        "": "1472",
+        "english": "value",
+        "japanese": "価値"
+    },
+    {
+        "": "1473",
+        "english": "influence",
+        "japanese": "影響"
+    },
+    {
+        "": "1474",
+        "english": "author",
+        "japanese": "著者"
+    },
+    {
+        "": "1475",
+        "english": "role",
+        "japanese": "役割"
+    },
+    {
+        "": "1476",
+        "english": "average",
+        "japanese": "平均"
+    },
+    {
+        "": "1477",
+        "english": "friendship",
+        "japanese": "交友関係"
+    },
+    {
+        "": "1478",
+        "english": "view",
+        "japanese": "意見"
+    },
+    {
+        "": "1479",
+        "english": "result",
+        "japanese": "結果"
+    },
+    {
+        "": "1480",
+        "english": "surface",
+        "japanese": "外見"
+    },
+    {
+        "": "1481",
+        "english": "rate",
+        "japanese": "割合"
+    },
+    {
+        "": "1482",
+        "english": "process",
+        "japanese": "過程"
+    },
+    {
+        "": "1483",
+        "english": "topic",
+        "japanese": "話題"
+    },
+    {
+        "": "1484",
+        "english": "variety",
+        "japanese": "種類"
+    },
+    {
+        "": "1485",
+        "english": "risk",
+        "japanese": "危険"
+    },
+    {
+        "": "1486",
+        "english": "amount",
+        "japanese": "量"
+    },
+    {
+        "": "1487",
+        "english": "skill",
+        "japanese": "技能"
+    },
+    {
+        "": "1488",
+        "english": "period",
+        "japanese": "期間"
+    },
+    {
+        "": "1489",
+        "english": "center",
+        "japanese": "中心"
+    },
+    {
+        "": "1490",
+        "english": "sense",
+        "japanese": "感覚"
+    },
+    {
+        "": "1491",
+        "english": "opportunity",
+        "japanese": "機会"
+    },
+    {
+        "": "1492",
+        "english": "effect",
+        "japanese": "影響"
+    },
+    {
+        "": "1493",
+        "english": "public",
+        "japanese": "大衆"
+    },
+    {
+        "": "1494",
+        "english": "transportation",
+        "japanese": "交通機関"
+    },
+    {
+        "": "1495",
+        "english": "atmosphere",
+        "japanese": "雰囲気"
+    },
+    {
+        "": "1496",
+        "english": "attention",
+        "japanese": "注意"
+    },
+    {
+        "": "1497",
+        "english": "space",
+        "japanese": "場所"
+    },
+    {
+        "": "1498",
+        "english": "behavior",
+        "japanese": "振る舞い"
+    },
+    {
+        "": "1499",
+        "english": "object",
+        "japanese": "物"
+    },
+    {
+        "": "1500",
+        "english": "company",
+        "japanese": "会社"
+    },
+    {
+        "": "1501",
+        "english": "field",
+        "japanese": "分野"
+    },
+    {
+        "": "1502",
+        "english": "following",
+        "japanese": "次の"
+    },
+    {
+        "": "1503",
+        "english": "various",
+        "japanese": "さまざまな"
+    },
+    {
+        "": "1504",
+        "english": "several",
+        "japanese": "いくつかの"
+    },
+    {
+        "": "1505",
+        "english": "local",
+        "japanese": "地元の"
+    },
+    {
+        "": "1506",
+        "english": "related",
+        "japanese": "関連して"
+    },
+    {
+        "": "1507",
+        "english": "possoble",
+        "japanese": "可能な"
+    },
+    {
+        "": "1508",
+        "english": "similar",
+        "japanese": "似ている"
+    },
+    {
+        "": "1509",
+        "english": "concerned",
+        "japanese": "心配して"
+    },
+    {
+        "": "1510",
+        "english": "available",
+        "japanese": "利用できる"
+    },
+    {
+        "": "1511",
+        "english": "dry",
+        "japanese": "乾燥した"
+    },
+    {
+        "": "1512",
+        "english": "past",
+        "japanese": "過ぎたばかりの"
+    },
+    {
+        "": "1513",
+        "english": "modern",
+        "japanese": "近代的な"
+    },
+    {
+        "": "1514",
+        "english": "unique",
+        "japanese": "特有の"
+    },
+    {
+        "": "1515",
+        "english": "common",
+        "japanese": "よくある"
+    },
+    {
+        "": "1516",
+        "english": "prepare",
+        "japanese": "準備する"
+    },
+    {
+        "": "1517",
+        "english": "regard",
+        "japanese": "～と思う"
+    },
+    {
+        "": "1518",
+        "english": "occur",
+        "japanese": "起こる"
+    },
+    {
+        "": "1519",
+        "english": "supppose",
+        "japanese": "～だと思う"
+    },
+    {
+        "": "1520",
+        "english": "serve",
+        "japanese": "出す"
+    },
+    {
+        "": "1521",
+        "english": "wonder",
+        "japanese": "だろうかと思う"
+    },
+    {
+        "": "1522",
+        "english": "reduce",
+        "japanese": "減らす"
+    },
+    {
+        "": "1523",
+        "english": "promote",
+        "japanese": "促進する"
+    },
+    {
+        "": "1524",
+        "english": "survive",
+        "japanese": "生き延びる"
+    },
+    {
+        "": "1525",
+        "english": "gain",
+        "japanese": "得る"
+    },
+    {
+        "": "1526",
+        "english": "divide",
+        "japanese": "分ける"
+    },
+    {
+        "": "1527",
+        "english": "attract",
+        "japanese": "引き寄せる"
+    },
+    {
+        "": "1528",
+        "english": "achieve",
+        "japanese": "達成する"
+    },
+    {
+        "": "1529",
+        "english": "fit",
+        "japanese": "適する"
+    },
+    {
+        "": "1530",
+        "english": "reveal",
+        "japanese": "明らかにする"
+    },
+    {
+        "": "1531",
+        "english": "wish",
+        "japanese": "願う"
+    },
+    {
+        "": "1532",
+        "english": "fill",
+        "japanese": "満たす"
+    },
+    {
+        "": "1533",
+        "english": "hurt",
+        "japanese": "傷つける"
+    },
+    {
+        "": "1534",
+        "english": "discover",
+        "japanese": "知る"
+    },
+    {
+        "": "1535",
+        "english": "indicate",
+        "japanese": "示す"
+    },
+    {
+        "": "1536",
+        "english": "overcome",
+        "japanese": "克服する"
+    },
+    {
+        "": "1537",
+        "english": "protect",
+        "japanese": "守る"
+    },
+    {
+        "": "1538",
+        "english": "remove",
+        "japanese": "取り去る"
+    },
+    {
+        "": "1539",
+        "english": "rely",
+        "japanese": "当てにする"
+    },
+    {
+        "": "1540",
+        "english": "bother",
+        "japanese": "わざわざ～する"
+    },
+    {
+        "": "1541",
+        "english": "seek",
+        "japanese": "追い求める"
+    },
+    {
+        "": "1542",
+        "english": "matter",
+        "japanese": "重要だ"
+    },
+    {
+        "": "1543",
+        "english": "concentrate",
+        "japanese": "集中する"
+    },
+    {
+        "": "1544",
+        "english": "react",
+        "japanese": "反応する"
+    },
+    {
+        "": "1545",
+        "english": "struggle",
+        "japanese": "奮闘する"
+    },
+    {
+        "": "1546",
+        "english": "admit",
+        "japanese": "認める"
+    },
+    {
+        "": "1547",
+        "english": "lock",
+        "japanese": "閉じ込める"
+    },
+    {
+        "": "1548",
+        "english": "issue",
+        "japanese": "問題"
+    },
+    {
+        "": "1549",
+        "english": "relationship",
+        "japanese": "関係"
+    },
+    {
+        "": "1550",
+        "english": "list",
+        "japanese": "リスト"
+    },
+    {
+        "": "1551",
+        "english": "item",
+        "japanese": "１品"
+    },
+    {
+        "": "1552",
+        "english": "distance",
+        "japanese": "距離"
+    },
+    {
+        "": "1553",
+        "english": "case",
+        "japanese": "場合"
+    },
+    {
+        "": "1554",
+        "english": "opinion",
+        "japanese": "意見"
+    },
+    {
+        "": "1555",
+        "english": "century",
+        "japanese": "世紀"
+    },
+    {
+        "": "1556",
+        "english": "trouble",
+        "japanese": "困難"
+    },
+    {
+        "": "1557",
+        "english": "total",
+        "japanese": "合計"
+    },
+    {
+        "": "1558",
+        "english": "advantage",
+        "japanese": "有利な点"
+    },
+    {
+        "": "1559",
+        "english": "detail",
+        "japanese": "細部"
+    },
+    {
+        "": "1560",
+        "english": "moment",
+        "japanese": "時点"
+    },
+    {
+        "": "1561",
+        "english": "bill",
+        "japanese": "請求書"
+    },
+    {
+        "": "1562",
+        "english": "rest",
+        "japanese": "残り"
+    },
+    {
+        "": "1563",
+        "english": "deal",
+        "japanese": "量"
+    },
+    {
+        "": "1564",
+        "english": "feature",
+        "japanese": "特徴"
+    },
+    {
+        "": "1565",
+        "english": "survey",
+        "japanese": "調査"
+    },
+    {
+        "": "1566",
+        "english": "destination",
+        "japanese": "目的地"
+    },
+    {
+        "": "1567",
+        "english": "conclusion",
+        "japanese": "結論"
+    },
+    {
+        "": "1568",
+        "english": "attitude",
+        "japanese": "態度"
+    },
+    {
+        "": "1569",
+        "english": "impact",
+        "japanese": "影響"
+    },
+    {
+        "": "1570",
+        "english": "source",
+        "japanese": "源"
+    },
+    {
+        "": "1571",
+        "english": "row",
+        "japanese": "列"
+    },
+    {
+        "": "1572",
+        "english": "assistant",
+        "japanese": "助手"
+    },
+    {
+        "": "1573",
+        "english": "impression",
+        "japanese": "印象"
+    },
+    {
+        "": "1574",
+        "english": "noise",
+        "japanese": "騒音"
+    },
+    {
+        "": "1575",
+        "english": "sign",
+        "japanese": "兆し"
+    },
+    {
+        "": "1576",
+        "english": "aim",
+        "japanese": "目的"
+    },
+    {
+        "": "1577",
+        "english": "occasion",
+        "japanese": "時"
+    },
+    {
+        "": "1578",
+        "english": "relationship",
+        "japanese": "関係"
+    },
+    {
+        "": "1579",
+        "english": "signal",
+        "japanese": "合図"
+    },
+    {
+        "": "1580",
+        "english": "balance",
+        "japanese": "バランス"
+    },
+    {
+        "": "1581",
+        "english": "track",
+        "japanese": "小道"
+    },
+    {
+        "": "1582",
+        "english": "symbol",
+        "japanese": "象徴"
+    },
+    {
+        "": "1583",
+        "english": "circle",
+        "japanese": "仲間"
+    },
+    {
+        "": "1584",
+        "english": "leisure",
+        "japanese": "余暇"
+    },
+    {
+        "": "1585",
+        "english": "angle",
+        "japanese": "角度"
+    },
+    {
+        "": "1586",
+        "english": "comfortable",
+        "japanese": "快適な"
+    },
+    {
+        "": "1587",
+        "english": "recent",
+        "japanese": "最近の"
+    },
+    {
+        "": "1588",
+        "english": "real",
+        "japanese": "現実の"
+    },
+    {
+        "": "1589",
+        "english": "dangerous",
+        "japanese": "危険な"
+    },
+    {
+        "": "1590",
+        "english": "current",
+        "japanese": "現在の"
+    },
+    {
+        "": "1591",
+        "english": "final",
+        "japanese": "最後の"
+    },
+    {
+        "": "1592",
+        "english": "obvious",
+        "japanese": "明らかな"
+    },
+    {
+        "": "1593",
+        "english": "fair",
+        "japanese": "妥当な"
+    },
+    {
+        "": "1594",
+        "english": "proud",
+        "japanese": "誇りに思って"
+    },
+    {
+        "": "1595",
+        "english": "anxious",
+        "japanese": "切望して"
+    },
+    {
+        "": "1596",
+        "english": "impossible",
+        "japanese": "不可能な"
+    },
+    {
+        "": "1597",
+        "english": "opposite",
+        "japanese": "反対側の"
+    },
+    {
+        "": "1598",
+        "english": "terrible",
+        "japanese": "ひどい"
+    },
+    {
+        "": "1599",
+        "english": "thick",
+        "japanese": "厚い"
+    },
+    {
+        "": "1600",
+        "english": "narrow",
+        "japanese": "狭い"
+    },
+    {
+        "": "1601",
+        "english": "actually",
+        "japanese": "実際に"
+    },
+    {
+        "": "1602",
+        "english": "especially",
+        "japanese": "特に"
+    },
+    {
+        "": "1603",
+        "english": "perhaps",
+        "japanese": "もしかしたら"
+    },
+    {
+        "": "1604",
+        "english": "fortunately",
+        "japanese": "幸運にも"
+    },
+    {
+        "": "1605",
+        "english": "less",
+        "japanese": "より少なく"
+    },
+    {
+        "": "1606",
+        "english": "least",
+        "japanese": "もっとも～でない"
+    },
+    {
+        "": "1607",
+        "english": "abroad",
+        "japanese": "外国に"
+    },
+    {
+        "": "1608",
+        "english": "overseas",
+        "japanese": "海外へ"
+    },
+    {
+        "": "1609",
+        "english": "rather",
+        "japanese": "むしろ"
+    },
+    {
+        "": "1610",
+        "english": "probably",
+        "japanese": "たぶん"
+    },
+    {
+        "": "1611",
+        "english": "easily",
+        "japanese": "たやすく"
+    },
+    {
+        "": "1612",
+        "english": "quite",
+        "japanese": "かなり"
+    },
+    {
+        "": "1613",
+        "english": "exactly",
+        "japanese": "正確に"
+    },
+    {
+        "": "1614",
+        "english": "instead",
+        "japanese": "その代わりに"
+    },
+    {
+        "": "1615",
+        "english": "immediately",
+        "japanese": "直ちに"
+    },
+    {
+        "": "1616",
+        "english": "somewhere",
+        "japanese": "どこかへ"
+    },
+    {
+        "": "1617",
+        "english": "gradually",
+        "japanese": "徐々に"
+    },
+    {
+        "": "1618",
+        "english": "simply",
+        "japanese": "単に"
+    },
+    {
+        "": "1619",
+        "english": "indeed",
+        "japanese": "確かに"
+    },
+    {
+        "": "1620",
+        "english": "whether",
+        "japanese": "～かどうか"
+    },
+    {
+        "": "1621",
+        "english": "also",
+        "japanese": "その上"
+    },
+    {
+        "": "1622",
+        "english": "moreover",
+        "japanese": "その上"
+    },
+    {
+        "": "1623",
+        "english": "besides",
+        "japanese": "その上"
+    },
+    {
+        "": "1624",
+        "english": "though",
+        "japanese": "だけど"
+    },
+    {
+        "": "1625",
+        "english": "however",
+        "japanese": "しかしながら"
+    },
+    {
+        "": "1626",
+        "english": "although",
+        "japanese": "～だけれども"
+    },
+    {
+        "": "1627",
+        "english": "TRUE",
+        "japanese": "本当の"
+    },
+    {
+        "": "1628",
+        "english": "because",
+        "japanese": "なぜなら"
+    },
+    {
+        "": "1629",
+        "english": "therefore",
+        "japanese": "したがって"
+    },
+    {
+        "": "1630",
+        "english": "anyway",
+        "japanese": "いずれにしても"
+    },
+    {
+        "": "1631",
+        "english": "bring about",
+        "japanese": "引き起こす"
+    },
+    {
+        "": "1632",
+        "english": "catch up with",
+        "japanese": "追いつく"
+    },
+    {
+        "": "1633",
+        "english": "check out",
+        "japanese": "調べる"
+    },
+    {
+        "": "1634",
+        "english": "deal with",
+        "japanese": "対処する"
+    },
+    {
+        "": "1635",
+        "english": "end up ～ing",
+        "japanese": "最終的には～することになる"
+    },
+    {
+        "": "1636",
+        "english": "figure out",
+        "japanese": "理解する"
+    },
+    {
+        "": "1637",
+        "english": "fill in",
+        "japanese": "記入する"
+    },
+    {
+        "": "1638",
+        "english": "get rid of",
+        "japanese": "処分する"
+    },
+    {
+        "": "1639",
+        "english": "have A in common",
+        "japanese": "共通のAを持つ"
+    },
+    {
+        "": "1640",
+        "english": "keep up with",
+        "japanese": "遅れずについていく"
+    },
+    {
+        "": "1641",
+        "english": "look to A",
+        "japanese": "期待する"
+    },
+    {
+        "": "1642",
+        "english": "make sense",
+        "japanese": "意味を成す"
+    },
+    {
+        "": "1643",
+        "english": "make sure",
+        "japanese": "確かめる"
+    },
+    {
+        "": "1644",
+        "english": "make up for",
+        "japanese": "埋め合わせをする"
+    },
+    {
+        "": "1645",
+        "english": "make up one's mind",
+        "japanese": "決心する"
+    },
+    {
+        "": "1646",
+        "english": "never fail to do",
+        "japanese": "必ず～する"
+    },
+    {
+        "": "1647",
+        "english": "result in",
+        "japanese": "～という結果になる"
+    },
+    {
+        "": "1648",
+        "english": "set off",
+        "japanese": "出発する"
+    },
+    {
+        "": "1649",
+        "english": "set out to",
+        "japanese": "し始める"
+    },
+    {
+        "": "1650",
+        "english": "set up",
+        "japanese": "始める"
+    },
+    {
+        "": "1651",
+        "english": "stay up",
+        "japanese": "起きている"
+    },
+    {
+        "": "1652",
+        "english": "take advantage of",
+        "japanese": "利用する"
+    },
+    {
+        "": "1653",
+        "english": "take in",
+        "japanese": "だます"
+    },
+    {
+        "": "1654",
+        "english": "take over",
+        "japanese": "引き継ぐ"
+    },
+    {
+        "": "1655",
+        "english": "turn down",
+        "japanese": "拒む"
+    },
+    {
+        "": "1656",
+        "english": "according to",
+        "japanese": "～によれば"
+    },
+    {
+        "": "1657",
+        "english": "at a distance",
+        "japanese": "離れたところから"
+    },
+    {
+        "": "1658",
+        "english": "by means of",
+        "japanese": "～によって"
+    },
+    {
+        "": "1659",
+        "english": "for a moment",
+        "japanese": "少しの間"
+    },
+    {
+        "": "1660",
+        "english": "in a sense",
+        "japanese": "ある意味では"
+    },
+    {
+        "": "1661",
+        "english": "in case of",
+        "japanese": "～の場合には"
+    },
+    {
+        "": "1662",
+        "english": "in contrast to",
+        "japanese": "～とは対照的に"
+    },
+    {
+        "": "1663",
+        "english": "in one's opinion",
+        "japanese": "～の考えでは"
+    },
+    {
+        "": "1664",
+        "english": "in terms of",
+        "japanese": "～の観点では"
+    },
+    {
+        "": "1665",
+        "english": "instead of",
+        "japanese": "～の代わりに"
+    },
+    {
+        "": "1666",
+        "english": "next to",
+        "japanese": "～の隣に"
+    },
+    {
+        "": "1667",
+        "english": "no more than",
+        "japanese": "わずか"
+    },
+    {
+        "": "1668",
+        "english": "nothing but",
+        "japanese": "ただ～だけ"
+    },
+    {
+        "": "1669",
+        "english": "out of order",
+        "japanese": "故障して"
+    },
+    {
+        "": "1670",
+        "english": "regardless of",
+        "japanese": "～に関係なく"
+    },
+    {
+        "": "1671",
+        "english": "to make matters worse",
+        "japanese": "さらに悪いことに"
+    },
+    {
+        "": "1672",
+        "english": "with ease",
+        "japanese": "容易に"
+    },
+    {
+        "": "1673",
+        "english": "a variety of",
+        "japanese": "いろいろな"
+    },
+    {
+        "": "1674",
+        "english": "as ～as possible",
+        "japanese": "できるだけ"
+    },
+    {
+        "": "1675",
+        "english": "as if",
+        "japanese": "まるで～であるかのように"
+    },
+    {
+        "": "1676",
+        "english": "by the time",
+        "japanese": "～するまでに"
+    },
+    {
+        "": "1677",
+        "english": "even if",
+        "japanese": "たとえ～だとしても"
+    },
+    {
+        "": "1678",
+        "english": "now that",
+        "japanese": "今や～だから"
+    },
+    {
+        "": "1679",
+        "english": "the moment that",
+        "japanese": "～するとすぐに"
+    },
+    {
+        "": "1680",
+        "english": "by the way",
+        "japanese": "ところで"
+    },
+    {
+        "": "1681",
+        "english": "as for",
+        "japanese": "～については"
+    },
+    {
+        "": "1682",
+        "english": "in general",
+        "japanese": "一般に"
+    },
+    {
+        "": "1683",
+        "english": "on the whole",
+        "japanese": "全体的に見て"
+    },
+    {
+        "": "1684",
+        "english": "for example",
+        "japanese": "例えば"
+    },
+    {
+        "": "1685",
+        "english": "in particular",
+        "japanese": "特に"
+    },
+    {
+        "": "1686",
+        "english": "that is",
+        "japanese": "すなわち"
+    },
+    {
+        "": "1687",
+        "english": "in other words",
+        "japanese": "言い換えると"
+    },
+    {
+        "": "1688",
+        "english": "to begin with",
+        "japanese": "まず第一に"
+    },
+    {
+        "": "1689",
+        "english": "in the first place",
+        "japanese": "まず第一に"
+    },
+    {
+        "": "1690",
+        "english": "in addition",
+        "japanese": "その上"
+    },
+    {
+        "": "1691",
+        "english": "A as well as B",
+        "japanese": "BだけでなくAも"
+    },
+    {
+        "": "1692",
+        "english": "on the other hand",
+        "japanese": "他方では"
+    },
+    {
+        "": "1693",
+        "english": "in spite of",
+        "japanese": "～にもかかわらず"
+    },
+    {
+        "": "1694",
+        "english": "because of",
+        "japanese": "～のために"
+    },
+    {
+        "": "1695",
+        "english": "on account of",
+        "japanese": "～のために"
+    },
+    {
+        "": "1696",
+        "english": "due to",
+        "japanese": "～のために"
+    },
+    {
+        "": "1697",
+        "english": "thanks to",
+        "japanese": "～のおかげで"
+    },
+    {
+        "": "1698",
+        "english": "as a result",
+        "japanese": "結果として"
+    },
+    {
+        "": "1699",
+        "english": "in any case",
+        "japanese": "いずれにしても"
+    },
+    {
+        "": "1700",
+        "english": "in short",
+        "japanese": "要約すると"
+    }
+]

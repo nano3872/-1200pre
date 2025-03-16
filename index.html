@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>英単語学習アプリ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div id="title-screen">
+            <h1 id="title-top">英単語ターゲット</h1>
+            <h2 id="title-top-2">1200</h2>
+            <div id="range-buttons">
+                <button id="range-1-400">1-400</button>
+                <button id="range-401-800">401-800</button>
+                <button id="range-801-1200">801-1200</button>
+                <button id="range-1201-1600">1201-1600</button>
+                <button id="range-1601-1700">1601-1700</button>
+            </div>
+            <div id="set-button-container" style="display: none;"></div>
+            <button id="show-history">学習履歴</button>
+        </div>
+        <div id="card-screen" style="display: none;">
+            <div id="english-area">
+                <div id="english"></div>
+            </div>
+            <div id="japanese-area">
+                <div id="japanese"></div>
+            </div>
+            <div id="navigation">
+                <div id="progress"></div>
+            </div>
+            <div id="buttons-area">
+                <button id="return-title-card">タイトルへ戻る</button>
+                <div id="buttons">
+                    <button id="known">知ってる</button>
+                    <button id="unknown">知らない</button>
+                </div>
+            </div>
+        </div>
+        <div id="result-screen" style="display: none;">
+            <h2>結果</h2>
+            <p>正解数: <span id="correct-count"></span> / <span id="total-count"></span></p>
+            <p>正解率: <span id="correct-percentage"></span>%</p>
+            <button id="retry-button">もう一度挑戦</button>
+            <button id="retry-incorrect-button">不正解のみ再挑戦</button>
+            <button id="return-title">タイトルへ戻る</button>
+        </div>
+        <div id="history-screen" style="display: none;">
+            <h2>学習履歴</h2>
+            <div id="history-list"></div>
+            <button id="return-title-history">タイトルへ戻る</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

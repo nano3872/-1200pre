@@ -1,0 +1,272 @@
+body {
+  background-color: rgb(245, 194, 27);
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.container {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(247, 244, 244, 0.1);
+  padding: 20px;
+  text-align: center;
+  width: 300px;
+  position: relative;
+  background-color: transparent;
+}
+
+#title-screen h1 {
+  font-family: 'Arial Black', sans-serif;
+  font-size: 3em;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  white-space: nowrap;
+  margin-top: 20px;
+  text-align: center;
+  margin-left: -40px;
+}
+
+#title-screen h2 {
+  font-family: 'Arial Black', sans-serif;
+  font-size: 10em;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  display: block;
+  text-align: center;
+  margin-top: -30px;
+  margin-left: -70px;
+  transform: scaleY(1.5);
+}
+
+#range-buttons {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(4, auto);
+  gap: 10px;
+  margin-left: -150px;
+  width: 600px;
+}
+
+#range-buttons button {
+  display: inline-block;
+  width: auto;
+  margin: 5px;
+  padding: 10px;
+  font-size: 1em;
+}
+
+#card-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#english-area {
+  position: absolute;
+  top: 200px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  background-color: white;
+  padding: 10px;
+  width: 80%;
+  max-width: 580px;
+  box-sizing: border-box;
+  overflow: hidden;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#english {
+  line-height: 1.2;
+  word-break: break-word;
+  font-size: 4em;
+  max-width: 100%;
+}
+
+#japanese-area {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+  width: 80%;
+  max-width: 580px;
+  box-sizing: border-box;
+}
+
+#buttons-area {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: white;
+  padding: 10px;
+  width: 600px;
+}
+
+#buttons {
+  display: flex;
+  justify-content: center;
+}
+
+#buttons button {
+  padding: 8px 16px;
+  margin: 0 8px;
+  font-size: 1em;
+}
+
+#return-title {
+  width: auto;
+  padding: 5px 10px;
+  font-size: 0.8em;
+  margin: 10px auto;
+  display: inline-block;
+}
+
+#result-screen {
+  background-color: white;
+  padding: 20px;
+}
+
+#navigation {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  max-width: 600px;
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+#progress {
+  background-color: #f0f0f0;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+
+#button-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+  margin-top: 50px;
+}
+
+#button-grid button {
+  padding: 10px;
+  font-size: 1em;
+}
+
+#return-title-card {
+  margin-bottom: 10px;
+}
+
+#set-button-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(4, 1fr); /* 修正 */
+  gap: 10px;
+  width: 600px;
+  transform: translateX(-150px);
+}
+
+#set-button-container button {
+  padding: 10px;
+  font-size: 1em;
+  display: inline-block;
+  height: auto;
+  min-height: 60px;
+}
+
+#history-screen {
+  background-color: white;
+  padding: 20px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  max-width: 600px;
+}
+
+/* パフォーマンス表示のスタイル */
+.performance-stats {
+  font-size: 0.8em;
+  margin-top: 5px;
+}
+
+/* 成績に応じた色分け */
+.high-score {
+  background-color: #c8e6c9;
+  border: 1px solid #81c784;
+}
+
+.medium-score {
+  background-color: #fff9c4;
+  border: 1px solid #dce775;
+}
+
+.low-score {
+  background-color: #ffcdd2;
+  border: 1px solid #e57373;
+}
+
+/* 履歴表示のスタイル */
+.history-set {
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.history-set h3 {
+  margin-top: 0;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.overall-stats {
+  font-weight: bold;
+}
+
+.recent-attempts {
+  margin-top: 10px;
+}
+
+.recent-attempts h4 {
+  margin-bottom: 5px;
+  font-size: 1em;
+}
+
+.recent-attempts ul {
+  list-style-type: none;
+  padding-left: 10px;
+  margin: 0;
+}
+
+.recent-attempts li {
+  margin-bottom: 3px;
+  font-size: 0.9em;
+}
